@@ -1,0 +1,12 @@
+nemo-toolkit[asr]
+torch
+torchaudio
+numpy
+omegaconf
+hydra-core
+pytorch-lightning
+sentencepiece
+protobuf
+soundfile
+librosa
+pyannote.audio
