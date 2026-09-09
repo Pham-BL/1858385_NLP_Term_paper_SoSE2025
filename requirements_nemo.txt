@@ -10,3 +10,4 @@ protobuf
 soundfile
 librosa
 pyannote.audio
+transformers==4.48.0
