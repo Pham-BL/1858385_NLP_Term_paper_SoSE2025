@@ -1,0 +1,39 @@
+[
+  {
+    "audio_file": "ctx_cce6686c.mp3",
+    "transcription": "Hoa Kỳ 3556 chết bao gồm 2.830 chiến đấu 92.134 bị thương 8.176 mất tích 7.245 tù binh Anh Quốc 1109 chết 2.674 bị thương 1.069 chết 2.674 bị thương 1.069 mất tích hoặc bị bắt Thổ Nhĩ Kỳ 721 chết 2.111 bị thương 1.168 mất tích 216 tù binh Canada 516 chết 1.042 bị thương 1.125 bị thương 1.128 mất tích 2.211 bị thương 1.168 mất tích 216 tù binh Canada. 516 chết 1.042 bị thương 1.162 bị thương 1.168 chết 2.121 bị thương 1.168 mất tích 2.211 bị thương 1.168 mất tích 216 tù binh Canada. 516 chết 1.1.000.bị thương ăm mười một bị thương, một trăm sáu mươi tám mất tích, hai trăm mười sáu tù binh Canada, năm trăm mười sáu chết, một nghìn không trăm bốn mươi hai bị thương, Australia, ba trăm ba mươi chín một nghìn hai trăm bị thương Pháp, ba trăm chết hoặc mất tích Hy Lạp, một trăm chín mươi bốn chết, bốn trăm năm mươi chín bị thương Colombia, một trăm sáu mươi ba chết, bốn trăm bốn mươi tám bị thương, hai mất tích hai mươi tám bị bắt Thái Lan, một trăm hai mươi chín chết, một nghìn một nghìn chín bị thương, năm mươi chín bị thương, ba mất tích Hà Lan, một trăm hai mươi ba bị thương, hai mươi tám bị thương, hai mươi tám bị bốn mươi tám bị thương, hai bị thương, hai bị thương, hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương hai bị thương, hai bị thương, hai bị thương hai bị thương tám bị thương hai mất tích hai mươi tám bị bắt Thái Lan một trăm hai mươi chín chết một nghìn một trăm ba mươi chín bị thương năm mất tích Hà Lan một trăm hai mươi ba chết phi líp pin một trăm mười hai chết bị một trăm linh một chết bốn trăm bảy mươi tám bị thương năm mất tích niu di lân ba mươi ba chết nam phi hai mươi tám chết tám mất tích lúc xăm bua hai chết tổng cộng một trăm.698 chết, 32.925 mất tích và 566.434 bị thương.",
+    "matched_context": "NYU được bầu vào Hiệp hội Viện Đại học Bắc Mỹ vào năm 1950. Các cựu sinh viên tốt nghiệp từ NYU đã giành tổng cộng ba mươi sáu giải Nobel, ba giải Turing, trên ba mươi Huy chương Quốc gia Hoa Kỳ về Khoa học, Công nghệ và Đổi mới, Nghệ thuật và Nhân văn, trên ba mươi giải Pulitzer, trên ba mươi giải Oscar, cùng với một số giải Russ, giải Gordon, giải Draper và huy chương Fields, cùng với hàng chục giải Emmy, giải Grammy và giải Tony. NYU cũng có nhiều cựu sinh viên thuộc nhiều cán bộ giảng dạy đoạt giải thưởng MacArthur và Guggenheim Fellowship, hàng trăm người là thành viên của Viện Hàn lâm Khoa học Quốc gia Hoa Kỳ, Viện Hàn lâm Kỹ thuật Quốc gia Hoa Kỳ và Viện Khoa học và Nghệ thuật Hoa Kỳ, và rất nhiều người là thành viên Quốc hội Hoa Kỳ cũng như thống đốc các bang, thị trưởng, tỉnh trưởng ở nhiều quốc gia trên khắp thế giới. NYU có nhiều cựu sinh viên giành giải Oscar hơn so với bất kỳ trường đại học nào khác. Nhiều cựu sinh viên NYU nằm trong danh sách những người giàu nhất thế giới, trong đó có mười bảy tỷ phú hiện nay còn sống.",
+    "best_context_id": "0091-0002",
+    "best_similarity": 0.08721700684044754,
+    "best_wer": 2.036529680365297,
+    "wer_cutoff": 2,
+    "reason": "best_candidate_exceeds_wer_cutoff",
+    "candidates": [
+      {
+        "context_id": "0092-0001",
+        "similarity": 0.5379111876453615,
+        "wer": 2.3378378378378377
+      },
+      {
+        "context_id": "0092-0051",
+        "similarity": 0.12575631762036857,
+        "wer": 2.452513966480447
+      },
+      {
+        "context_id": "0057-0019",
+        "similarity": 0.08844353945087911,
+        "wer": 3.2720588235294117
+      },
+      {
+        "context_id": "0091-0002",
+        "similarity": 0.08721700684044754,
+        "wer": 2.036529680365297
+      },
+      {
+        "context_id": "0092-0074",
+        "similarity": 0.08659080805792568,
+        "wer": 2.554913294797688
+      }
+    ]
+  }
+]

@@ -28,23 +28,23 @@ wer_calc.ipynb - calculates wer
 uit_viquad.ipynb - extracts data from the UiT-ViQUAD 2.0 dataset to a json file as ground truth in the study
 vit5_ft_set_creating - creates the sets for fine-tuning vit5 in rq1
 
-Test results - data/output/
+Test results - data/rq1/; data/rq2/output/
 ----
-rq1/base_vit5 - results for mean wer of base vit5 ("mean_vit5_wer") compared to mean wer of no ec model ("mean_asr_wer")
-rq1/ft_vit5 - results for mean wer of fine-tuned vit5 ("mean_vit5_wer") compared to mean wer of no ec model ("mean_asr_wer")
-rq2/slide - results for mean em and f1 of different models. data from this folder was used in the final submission
-rq2/noslide - results for mean em and f1 of different models. the predict function for bartpho, xlmr and vit5 used differently here, thus they were separated; the result trends were mostly the same
+rq1/ec/output/base_vit5 - results for mean wer of base vit5 ("mean_vit5_wer") compared to mean wer of no ec model ("mean_asr_wer")
+rq1/ec/output/ft_vit5 - results for mean wer of fine-tuned vit5 ("mean_vit5_wer") compared to mean wer of no ec model ("mean_asr_wer")
+output/slide - results for mean em and f1 of different models. data from this folder was used in the final submission
+output/noslide - results for mean em and f1 of different models. the predict function for bartpho, xlmr and vit5 used differently here, thus they were separated; the result trends were mostly the same
 
-Input files - data/input/
+Input files - data/rq1/; data/rq2/input/
 ----
-rq1/output_phoasr_train.csv - used in fine-tuning vit5 ec model
-rq1/output_phoasr_test.csv - used in inferencing vit5 ec model
-rq1/output_visqa_test.csv - used in inferencing vit5 ec model
-rq2/wer_calc_PhoASR_VIQUAD_val - matched baseline phoasr transcripts to viquad ground truth, used in rq2 as baseline context input for running the models *Note: ignore "summary" section, it was used to match audio files and transcripts together early on and was not removed after
-rq2/wer_calc_VISQA_VIQUAD_val - matched baseline visqa transcripts to viquad ground truth, used in rq2 as baseline context input for running the models *Note: ignore "summary" section, it was used to match audio files and transcripts together early on and was not removed after
-rq2/ft_PhoASR_VIQUAD_val.json - matched corrected phoasr transcripts to viquad ground truth *Note: ignore "summary section, it was used to match audio files and transcripts together early on and was not removed after
-rq2/ft_VISQA_VIQUAD_val.json - matched corrected visqa transcripts to viquad ground truth *Note: ignore "summary" section, it was used to match audio files and transcripts together early on and was not removed after
-uit_viquad_train.json - ground truth file, extracted from uit-viquad 2.0 train set
+rq1/ec/input/output_phoasr_train.csv - used in fine-tuning vit5 ec model
+rq1/ec/input/output_phoasr_test.csv - used in inferencing vit5 ec model
+rq1/ec/input/output_visqa_test.csv - used in inferencing vit5 ec model
+rq2/input/context_mapping_phoasr_VIQUAD_val.json - matched baseline phoasr transcripts to viquad ground truth, used in rq2 as baseline context input for running the models. also includes the questions and ground truth answers for comparison in rq2. *Note: ignore "summary" section, it was used to match audio files and transcripts together early on and was not removed after
+rq2/input/context_mapping_visqa_VIQUAD_val.json - matched baseline visqa transcripts to viquad ground truth, used in rq2 as baseline context input for running the models. also includes the questions and ground truth answers for comparison in rq2. *Note: ignore "summary" section, it was used to match audio files and transcripts together early on and was not removed after
+rq2/input/ft_PhoASR_VIQUAD_val.json - matched corrected phoasr transcripts to viquad ground truth, used in rq2 as corrected context input for running the models. also includes the questions and ground truth answers for comparison in rq2. *Note: ignore "summary section, it was used to match audio files and transcripts together early on and was not removed after
+rq2/input/ft_VISQA_VIQUAD_val.json - matched corrected visqa transcripts to viquad ground truth, used in rq2 as baseline context input for running the models. also includes the questions and ground truth answers for comparison in rq2. *Note: ignore "summary" section, it was used to match audio files and transcripts together early on and was not removed after
+rq2/uit_viquad_train.json - ground truth file, extracted from uit-viquad 2.0 train set
 uit_viquad_val.json - ground truth file, extracted from uit-viquad 2.0 validation set
 
 
