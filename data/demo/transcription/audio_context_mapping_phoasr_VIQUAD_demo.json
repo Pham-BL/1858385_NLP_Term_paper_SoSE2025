@@ -1,0 +1,2757 @@
+[
+  {
+    "audio_file": "ctx_00aa19e0.mp3",
+    "transcription": "Thành phần của mômen lưỡng cực từ của sao Hải Vương tại xích đạo từ bằng mười bốn micro tét la không mười bốn giờ mômen lưỡng cực từ của sao Hải Vương bằng hai phẩy hai nhân một nghìn không trăm mười bảy tấm ba mười bốn mươi tờ en ren nờ là bán kính của sao Hải Vương từ trường của hành tinh này có dạng hình học phức tạp bao gồm sự phân bố tương đối lớn của thành phần phi lưỡng cực trong đó có mômen tứ cực mà có thể vượt giá trị mômen từ lưỡng cực về độ lớn và vùng nhìn nhìn nhìn nhìn nhìn này có dạng hình học phức tạp bao gồm sự phân bối tương đối lớn của thành phần phi lưỡng cực trong đó có mômen tứ cực mà có thể vượt giá trị mômen từ lưỡng cực từ lưỡng cực về độ lớn và vùng nhìn tương đất này có dạng hình học phức tạp bao gồm bộ mômen tương đối lớn của thành phần phi lưỡng cực trong đó có mômen tứ cực mà có thể vượt giá trị mômen từ lưỡng cực từ lưỡng cực từ lưỡng cực từ trường này trường trường trường trường trường trường trường hình của hình tích này có dạng hình này có dạng hình này có dạng hình này có dạng hình này có dạng hình học phức tạp bao gồm sự phân bố tương đối lớn của thành phần phi lưỡng cực trong đó có mômen tứ cực mà có thể vượt giá trị mômen từ lưỡng cực về độ lớn ngược lại Trái đất sao Mộc và sao Thổ có thành phần mômen tứ cực tương đối nhỏ và trục từ trường của chúng hiện tại không lệch quá lớn so với trục tự quay hành tinh giá trị mômen tứ cực lớn của từ trường sao Hải Vương có thể là do sự lệch khỏi tâm hành tinh của trục từ trường và sự giới hạn về mặt hình học của lớp vỏ đi Nam Mô hành tinh.",
+    "context_id": "0102-0016",
+    "matched_context": "Thành phần của mômen lưỡng cực từ của Sao Hải Vương tại xích đạo từ bằng 14 microtesla (0,14 G). Mô men lưỡng cực từ của Sao Hải Vương bằng 2,2 × 1017 T•m3 (14 μT•RN3, với RN là bán kính của Sao Hải Vương). Từ trường của hành tinh này có dạng hình học phức tạp bao gồm sự phân bố tương đối lớn của thành phần phi lưỡng cực, trong đó có mô men tứ cực mà có thể vượt giá trị mô men từ lưỡng cực về độ lớn. Ngược lại Trái Đất, Sao Mộc và Sao Thổ có thành phần mô men tứ cực tương đối nhỏ, và trục từ trường của chúng hiện tại không lệch quá lớn so với trục tự quay hành tinh. Giá trị mô men tứ cực lớn của từ trường Sao Hải Vương có thể là do sự lệch khỏi tâm hành tinh của trục từ trường và sự giới hạn về mặt hình học của lớp vỏ dynamo hành tinh.",
+    "qas": [
+      {
+        "id": "0102-0016-0001",
+        "question": "Mô men tứ cực vượt mô men từ lưỡng cực về giá trị nào?",
+        "answers": [
+          {
+            "text": "độ lớn",
+            "answer_start": 396
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0016-0002",
+        "question": "Mô men tứ cực của Trái Đất và Sao Mộc có nét tương đồng với Sao Thổ như thế nào?",
+        "answers": [
+          {
+            "text": "tương đối nhỏ",
+            "answer_start": 471
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0016-0003",
+        "question": "Trục từ trường cà trục tự quay của Trái Đất, Sao Mộc và Sao Thổ như thế nào với nhau?",
+        "answers": [
+          {
+            "text": "không lệch quá lớn",
+            "answer_start": 523
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0016-0004",
+        "question": "Lí do từ đâu dẫn đến giá trị mô men tứ cực lớn của từ trường Sao Hải Vương?",
+        "answers": [
+          {
+            "text": "sự lệch khỏi tâm hành tinh của trục từ trường và sự giới hạn về mặt hình học của lớp vỏ dynamo hành tinh",
+            "answer_start": 640
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0016-0005",
+        "question": "Miêu tả đặc tính không gian của từ trường Sao Hải Vương là gì?",
+        "answers": [
+          {
+            "text": "dạng hình học phức tạp",
+            "answer_start": 238
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0016-0006",
+        "question": "Mô men tứ cực vượt mô men phi lưỡng cực về giá trị nào?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0102-0016-0007",
+        "question": "Mô men tứ cực của Trái Đất và Sao Mộc có nét tương đồng với Sao Hải Vương như thế nào?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0102-0016-0008",
+        "question": "Trục từ trường và trục tự quay của Sao Hải Vương, Sao Mộc và Sao Thổ như thế nào với nhau?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0102-0016-0009",
+        "question": "Lí do từ đâu dẫn đến giá trị mô men tứ cực tương đối nhỏ của từ trường Sao Hải Vương?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0102-0016-0010",
+        "question": "Miêu tả đặc tính từ trường của không gian Sao Hải Vương là gì?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.7266427387894556,
+    "wer": 1.1714285714285715,
+    "candidates": [
+      {
+        "context_id": "0102-0016",
+        "similarity": 0.7266427387894556,
+        "wer": 1.1714285714285715
+      },
+      {
+        "context_id": "0102-0015",
+        "similarity": 0.21654441412064473,
+        "wer": 2.050632911392405
+      },
+      {
+        "context_id": "0102-0021",
+        "similarity": 0.18767127427189137,
+        "wer": 1.9401197604790419
+      },
+      {
+        "context_id": "0102-0010",
+        "similarity": 0.17097618897340366,
+        "wer": 1.7301587301587302
+      },
+      {
+        "context_id": "0102-0003",
+        "similarity": 0.1470187273320279,
+        "wer": 1.8089887640449438
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_00ada008.mp3",
+    "transcription": "Từ khi có sự thành lập giải bóng đá chuyên nghiệp Nhật Bản năm một nghìn chín trăm chín mươi hai, môn thể thao này cũng đã nhanh chóng phát triển mạnh mẽ. Nhật Bản là nước tổ chức Cúp bóng đá liên lục địa từ năm một nghìn chín trăm tám mươi mốt tới hai nghìn không trăm linh bốn và là nước đồng chủ nhà World Cup hai nghìn không trăm linh hai cùng Hàn Quốc. Đội tuyển bóng đá quốc gia Nhật Bản là một trong những đội bóng thành công nhất ở châu Á với bốn lần giành chức vô địch Cúp bóng đá châu Á. Nhật Bản là đất nước đầu tiên ở châu Á tổ chức một kỳ thế vận hội, không kỳ thế vận hội gì khác, đó là Thế vận hội mùa hè một nghìn chín trăm sáu mươi bốn tổ chức tại Tokyo.",
+    "context_id": "0006-0050",
+    "matched_context": "Từ khi có sự thành lập Giải bóng đá chuyên nghiệp Nhật Bản năm 1992, môn thể thao này cũng đã nhanh chóng phát triển mạnh mẽ. Nhật Bản là nước tổ chức Cúp bóng đá liên lục địa từ năm 1981 tới 2004 và là nước đồng chủ nhà World Cup 2002 cùng Hàn Quốc. Đội tuyển bóng đá quốc gia Nhật Bản là một trong những đội bóng thành công nhất ở châu Á với bốn lần dành chức vô địch cúp bóng đá châu Á. Nhật Bản là đất nước đầu tiên ở châu Á tổ chức 1 kỳ Thế vận hội, không kỳ Thế vận hội gì khác đó là Thế vận hội Mùa hè 1964 tổ chức tại Tokyo.",
+    "qas": [
+      {
+        "id": "0006-0050-0001",
+        "question": "Khi nào thì giải bóng đá chuyên nghiệp xuất hiện ở Nhật Bản?",
+        "answers": [
+          {
+            "text": "năm 1992",
+            "answer_start": 59
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0006-0050-0002",
+        "question": "Quốc gia nào là người tổ chức giải bóng đá liên lục địa liên tiếp trong khoảng thời gian 1981-2004?",
+        "answers": [
+          {
+            "text": "Nhật Bản",
+            "answer_start": 126
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0006-0050-0003",
+        "question": "Có bao nhiêu quốc gia được xem là chủ nhà của World Cup 2002?",
+        "answers": [
+          {
+            "text": "2",
+            "answer_start": 231
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0006-0050-0004",
+        "question": "Thành tựu to lớn mà bóng đá Nhật Bản nhận được là gì?",
+        "answers": [
+          {
+            "text": "bốn lần dành chức vô địch cúp bóng đá châu Á",
+            "answer_start": 344
+          }
+        ],
+        "is_impossible": false
+      }
+    ],
+    "similarity": 0.7466416593327702,
+    "wer": 0.28225806451612906,
+    "candidates": [
+      {
+        "context_id": "0006-0050",
+        "similarity": 0.7466416593327702,
+        "wer": 0.28225806451612906
+      },
+      {
+        "context_id": "0051-0049",
+        "similarity": 0.2128498665003181,
+        "wer": 0.9158878504672897
+      },
+      {
+        "context_id": "0126-0118",
+        "similarity": 0.2048303544509232,
+        "wer": 0.9087136929460581
+      },
+      {
+        "context_id": "0057-0087",
+        "similarity": 0.197133976228943,
+        "wer": 0.9444444444444444
+      },
+      {
+        "context_id": "0056-0048",
+        "similarity": 0.18414139051217365,
+        "wer": 0.9084967320261438
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_00cde671.mp3",
+    "transcription": "Hoa Anh Tơn là một thành viên của Giáo hội Anh giáo, sau này gọi là Giáo hội Giám nhiệm, có địa vị được thiết lập tại tiểu bang Virginia. Điều đó có nghĩa là tiền thuế được dùng để trả cho các vị chức sắc nhà thơ. Ông là một thành viên phục vụ trong ban điều hành nhà thờ Cruyff tại Alexandria, Virginia, Virginia và nhà thờ Postinian, gần nhà của ông trong đồn điền Mao Verland, cho đến khi chiến tranh bắt đầu. Tuy nhiên giáo xứ này là một đơn vị của chính quyền địa phương và giáo xứ này phần lớn lo những công việc dân sự như đường sá và giảm nghèo.",
+    "context_id": "0063-0054",
+    "matched_context": "Washington là một thành viên của Giáo hội Anh giáo, sau này gọi là Giáo hội Giám nhiệm, \"có địa vị được thiết lập\" tại tiểu bang Virginia (điều đó có nghĩa là tiền thuế được dùng để trả cho các vị chức sắc nhà thờ). Ông là một thành viên phục vụ trong ban điều hành Nhà thờ Christ tại Alexandria, Virginia và Nhà thờ Pohick gần nhà của ông trong đồn điền Mount Vernon cho đến khi chiến tranh bắt đầu; tuy nhiên giáo xứ này là một đơn vị của chính quyền địa phương và giáo xứ này phần lớn lo những công việc dân sự như đường sá và giảm nghèo.",
+    "qas": [
+      {
+        "id": "0063-0054-0001",
+        "question": "Giáo hội Giám nhiệm, được Washington đặc cách như thế nào?",
+        "answers": [
+          {
+            "text": "\"có địa vị được thiết lập\" tại tiểu bang Virginia (điều đó có nghĩa là tiền thuế được dùng để trả cho các vị chức sắc nhà thờ)",
+            "answer_start": 88
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0063-0054-0002",
+        "question": "Vì sao Washington lại \"ưu ái\" đối với Giáo hội Giám nhiệm?",
+        "answers": [
+          {
+            "text": "Washington là một thành viên của Giáo hội Anh giáo",
+            "answer_start": 0
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0063-0054-0003",
+        "question": "Trước khi chiến tranh nổ ra, Washington có những vai trò gì tại các Nhà thờ địa phương?",
+        "answers": [
+          {
+            "text": "Ông là một thành viên phục vụ trong ban điều hành Nhà thờ Christ tại Alexandria, Virginia và Nhà thờ Pohick gần nhà của ông trong đồn điền Mount Vernon",
+            "answer_start": 216
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0063-0054-0004",
+        "question": "Nhà thờ Pohick có những hoạt động chủ yếu nào?",
+        "answers": [
+          {
+            "text": "giáo xứ này phần lớn lo những công việc dân sự như đường sá và giảm nghèo",
+            "answer_start": 467
+          }
+        ],
+        "is_impossible": false
+      }
+    ],
+    "similarity": 0.83157215148905,
+    "wer": 0.0782608695652174,
+    "candidates": [
+      {
+        "context_id": "0063-0054",
+        "similarity": 0.83157215148905,
+        "wer": 0.0782608695652174
+      },
+      {
+        "context_id": "0063-0010",
+        "similarity": 0.19563772113200284,
+        "wer": 0.9310344827586207
+      },
+      {
+        "context_id": "0063-0014",
+        "similarity": 0.17570936451755786,
+        "wer": 0.9375
+      },
+      {
+        "context_id": "0063-0017",
+        "similarity": 0.1578956652416868,
+        "wer": 0.9769230769230769
+      },
+      {
+        "context_id": "0063-0005",
+        "similarity": 0.15555269733457677,
+        "wer": 0.9361702127659575
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_00df75b1.mp3",
+    "transcription": "Năm hai nghìn không trăm linh ba, Hoa Kỳ mở một cuộc tấn công xâm chiếm I rắc dẫn đến sự sụp đổ của chính phủ I ra Ki và sau cùng là việc bắt giữ nhà độc tài Sát Đam Hu Sên các lý do viện giải của chính phủ bếch về việc xâm chiếm I rắc gồm có truyền bá dân chủ, loại bỏ vũ khí diệt hàng loạt cũng là một đòi hỏi chính yếu của Liên Hiệp Quốc mặc dù sau này các cuộc điều tra không tìm thấy dấu hiệu rằng các báo cáo t năm bạo động gây ra bởi phiến quân I rắc Tổng thống Bush triển khai thêm binh sĩ trong một chiến lược được mệnh danh là tăng cường lực lượng mặc dù con số người thiệt mạng có giảm nhưng sự bình ổn chính trị của I rắc vẫn còn trong tình trạng đáng ngờ vực.",
+    "context_id": "0100-0099",
+    "matched_context": "Năm 2003, Hoa Kỳ mở một cuộc tấn công xâm chiếm Iraq, dẫn đến sự sụp đổ của chính phủ Iraqi và sau cùng là việc bắt giữ nhà độc tài Saddam Hussein. Các lý do viện giải của chính phủ Bush về việc xâm chiếm Iraq gồm có truyền bá dân chủ, loại bỏ vũ khí hủy diệt hàng loạt (cũng là một đòi hỏi chính yếu của Liên Hiệp quốc mặc dù sau này các cuộc điều tra không tìm thấy dấu hiệu rằng các báo cáo tình báo là chính xác), và giải phóng nhân dân Iraq. Tuy có một số thành công ban đầu ngay đầu cuộc xâm chiếm nhưng cuộc chiến tranh Iraq kéo dài đã châm ngòi cho các cuộc phản đối quốc tế và dần dần sự ủng hộ cuộc chiến tranh này trong nước cũng xuống thấp khi nhiều người Mỹ bắt đầu đặt câu hỏi rằng liệu cuộc xâm chiếm này có đáng giá hay là không. Năm 2007, sau nhiều năm bạo động gây ra bởi phiến quân Iraq, tổng thống Bush triển khai thêm binh sĩ trong một chiến lược được mệnh danh là \"tăng cường lực lượng]].\" Mặc dù con số người thiệt mạng có giảm nhưng sự bình ổn chính trị của Iraq vẫn còn trong tình trạng đáng ngờ vực.",
+    "qas": [
+      {
+        "id": "0100-0099-0001",
+        "question": "Iraq đã bị xâm chiếm vào năm nào bởi một cuộc tấn công của Hoa Kỳ?",
+        "answers": [
+          {
+            "text": "2003",
+            "answer_start": 4
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0099-0002",
+        "question": "Hoa Kỳ đã bắt giữ ai sau cuộc tấn công xâm chiếm Iraq năm 2003?",
+        "answers": [
+          {
+            "text": "Saddam Hussein",
+            "answer_start": 132
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0099-0003",
+        "question": "Cùng với lý do giải phóng nhân dân Iraq thì còn có lý do nào được chính phủ Bush đưa ra để lý giải về việc xâm chiếm Iraq?",
+        "answers": [
+          {
+            "text": "truyền bá dân chủ, loại bỏ vũ khí hủy diệt hàng loạt",
+            "answer_start": 217
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0099-0004",
+        "question": "Chiến lược mang tên gì đã được tổng thống Bush triển khai vào năm 2007?",
+        "answers": [
+          {
+            "text": "tăng cường lực lượng",
+            "answer_start": 887
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0099-0005",
+        "question": "Cuộc xâm chiến Iraq của Hoa Kỳ đã châm ngòi cho điều gì?",
+        "answers": [
+          {
+            "text": "các cuộc phản đối quốc tế",
+            "answer_start": 557
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0099-0006",
+        "question": "Iraq đã bị xâm chiếm vào năm nào bởi một cuộc tấn công của Saddam Hussein?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0100-0099-0007",
+        "question": "Iraq đã bắt giữ ai sau cuộc tấn công xâm chiếm Hoa Kỳ năm 2003?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.6489992821005914,
+    "wer": 0.4642857142857143,
+    "candidates": [
+      {
+        "context_id": "0100-0099",
+        "similarity": 0.6489992821005914,
+        "wer": 0.4642857142857143
+      },
+      {
+        "context_id": "0092-0032",
+        "similarity": 0.13571717345656228,
+        "wer": 1.0694444444444444
+      },
+      {
+        "context_id": "0137-0033",
+        "similarity": 0.13510400496902567,
+        "wer": 1.3423423423423424
+      },
+      {
+        "context_id": "0127-0041",
+        "similarity": 0.13192124591604965,
+        "wer": 0.9651162790697675
+      },
+      {
+        "context_id": "0079-0013",
+        "similarity": 0.13185802867738322,
+        "wer": 0.9601990049751243
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_00e923cc.mp3",
+    "transcription": "Nghiên cứu nhằm cải thiện các điều trị đang có bao gồm giảm tác dụng phụ của thuốc. Đơn giản hóa phác đồ để tăng mức tuân thủ và xác định trình tự điều trị tốt nhất để tránh để kháng thuốc đã được dùng để điều trị triệu chứng trong thập kỷ đầu tiên khi chưa có biện pháp điều trị hữu hiệu. Nhiều bệnh nhân AIDS dùng nhiều loại điều trị thay thế như massage, thảo dược và châm cứu không biện pháp nào trong số đó cho thấy hiệu quả thực sự hoặc lâu dài trên virus ở các thử nghiệm có kiểm soát nhưng chúng có lẽ nâng cao chất lượng sống cho bệnh nhân. Hiện chúng được dùng phối hợp với điều trị quy ước để cải thiện triệu chứng như đau ăn mất ngon chúng vẫn được sử dụng đơn thuần bởi những người tin rằng ACE không phải do HIV gây ra.",
+    "context_id": "0121-0026",
+    "matched_context": "Nghiên cứu nhằm cải thiện các điều trị đang có bao gồm giảm tác dụng phụ của thuốc, đơn giản hoá phác đồ để tăng mức tuân thủ và xác định trình tự điều trị tốt nhất để tránh đề kháng thuốc đã được dùng để điều trị triệu chứng. Trong thập kỉ đầu tiên khi chưa có biện pháp điều trị hữu hiệu, nhiều bệnh nhân AIDS dùng nhiều loại điều trị thay thế như mát-xa, thảo dược và châm cứu. Không biện pháp nào trong số đó cho thấy hiệu quả thực sự hoặc lâu dài trên virus ở các thử nghiệm có kiểm soát, nhưng chúng có lẽ nâng cao chất lượng sống cho bệnh nhân. Hiện chúng được dùng phối hợp với điều trị quy ước để cải thiện triệu chứng, như đau, ăn mất ngon... Chúng vẫn được sử dụng đơn thuần bởi những người tin rằng AIDS không phải do HIV gây ra.",
+    "qas": [
+      {
+        "id": "0121-0026-0001",
+        "question": "Những mục đích mà các nhiên cứu cải thiện cách điều trị hướng đến là gì?",
+        "answers": [
+          {
+            "text": "giảm tác dụng phụ của thuốc, đơn giản hoá phác đồ để tăng mức tuân thủ và xác định trình tự điều trị tốt nhất để tránh đề kháng thuốc đã được dùng để điều trị triệu chứng",
+            "answer_start": 55
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0121-0026-0002",
+        "question": "Những người nhiễm HIV đã sử dụng cách nào để điều trị khi các cách điều trị hữu hiệu chưa ra đời?",
+        "answers": [
+          {
+            "text": "mát-xa, thảo dược và châm cứu",
+            "answer_start": 350
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0121-0026-0003",
+        "question": "Những người nào vẫn đang sử dụng cách trị liệu mát-xa, thảo dược, châm cứu là cách trị liệu đơn thuần?",
+        "answers": [
+          {
+            "text": "những người tin rằng AIDS không phải do HIV gây ra",
+            "answer_start": 690
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0121-0026-0004",
+        "question": "Tác dụng mà các cách trị liệu mát-xa, thảo dược, châm cứu mang lại thật sự cho người bệnh là gì?",
+        "answers": [
+          {
+            "text": "nâng cao chất lượng sống cho bệnh nhân",
+            "answer_start": 512
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0121-0026-0005",
+        "question": "Những triệu chứng nào của các bệnh nhân mà cần đến các cách trị liệu tại thời điểm các biện pháp điều trị hữu hiệu chưa xuất hiện?",
+        "answers": [
+          {
+            "text": "đau, ăn mất ngon..",
+            "answer_start": 633
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0121-0026-0006",
+        "question": "Tác dụng mà các cách trị liệu mát-xa, thảo dược, châm cứu mang lại thật sự cho người bệnh mất ăn là gì?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.922450334213727,
+    "wer": 0.0375,
+    "candidates": [
+      {
+        "context_id": "0121-0026",
+        "similarity": 0.922450334213727,
+        "wer": 0.0375
+      },
+      {
+        "context_id": "0121-0002",
+        "similarity": 0.17560243132906234,
+        "wer": 0.9519650655021834
+      },
+      {
+        "context_id": "0121-0010",
+        "similarity": 0.17055870217349195,
+        "wer": 1.1578947368421053
+      },
+      {
+        "context_id": "0121-0004",
+        "similarity": 0.1691695286127517,
+        "wer": 0.9619565217391305
+      },
+      {
+        "context_id": "0121-0024",
+        "similarity": 0.16404778207209955,
+        "wer": 1.186046511627907
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_00e926ac.mp3",
+    "transcription": "Dựa theo hệ thống ghi chép dân số, dựa theo địa chỉ của Thổ Nhĩ Kỳ, dân số toàn quốc là bảy mươi bốn phẩy bảy triệu vào năm hai nghìn không trăm mười một, gần ba phần tư trong đó cư trú tại thành thị. Theo ước tính năm hai nghìn không trăm mười một, dân số tăng trưởng một phẩy ba mươi lăm phần trăm trên năm. Thổ Nhĩ Kỳ có mật độ dân số trung bình là chín mươi bảy người chéc ca em ở bình phương. Năm hai nghìn không trăm linh chín, người trong nhóm tuổi mười lăm đến sáu mươi bốn cấu thành sáu mươi bảy phẩy bốn phần trăm tổng dân số nhóm tuổi không đến mười bốn chiếm hai mươi lăm phẩy ba phần trăm, trong khi nhóm tuổi từ sáu mươi lăm trở lên chiếm bảy phẩy ba phần trăm năm một nghìn chín trăm hai mươi bảy khi điều tra nhân khẩu chính thức đầu tiên được tiến hành tại nước Cộng Thổ Nhĩ Kỳ, dân số là mười ba phẩy sáu triệu thành phố lớn nhất tại Thổ Nhĩ Kỳ, là Ít Pa Bun. Đây cũng là thành phố lớn nhất châu Âu, xét theo dân số và là thành phố lớn thứ ba tại châu Âu theo kích thước.",
+    "context_id": "0018-0030",
+    "matched_context": "Dựa theo hệ thống ghi chép dân số dựa theo địa chỉ của Thổ Nhĩ Kỳ, dân số toàn quốc là 74,7 triệu vào năm 2011, gần ba phần tư trong đó cư trú tại thành thị. Theo ước tính năm 2011, dân số tăng trưởng 1,35%/năm. Thổ Nhĩ Kỳ có mật độ dân số trung bình là 97 người/km². Năm 2009, người trong nhóm tuổi 15-64 cấu thành 67,4% tổng dân số; nhóm tuổi 0-14 chiếm 25,3%; trong khi nhóm tuổi từ 65 trở lên chiếm 7,3%. Năm 1927, khi điều tra nhân khẩu chính thức đầu tiên được tiến hành tại nước Cộng hòa Thổ Nhĩ Kỳ, dân số là 13,6 triệu. Thành phố lớn nhất tại Thổ Nhĩ Kỳ là Istanbul, đây cũng là thành phố lớn nhất châu Âu xét theo dân số, và là thành phố lớn thứ ba tại châu Âu theo kích thước.",
+    "qas": [
+      {
+        "id": "0018-0030-0001",
+        "question": "Dân số của Thổ Nhĩ Kỳ vào năm 2011 là bao nhiêu?",
+        "answers": [
+          {
+            "text": "74,7 triệu",
+            "answer_start": 87
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0018-0030-0002",
+        "question": "Phần lớn người dân Thổ Nhĩ Kỳ sinh sống ở nông thôn hay thành thị?",
+        "answers": [
+          {
+            "text": "thành thị",
+            "answer_start": 147
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0018-0030-0003",
+        "question": "Dân số Thổ Nhĩ Kỳ có cơ cấu như thế nào theo độ tuổi vào năm 2009?",
+        "answers": [
+          {
+            "text": "Năm 2009, người trong nhóm tuổi 15-64 cấu thành 67,4% tổng dân số; nhóm tuổi 0-14 chiếm 25,3%; trong khi nhóm tuổi từ 65 trở lên chiếm 7,3%",
+            "answer_start": 268
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0018-0030-0004",
+        "question": "Thành phố nào của Thổ Nhĩ Kỳ có người dân tập trung sinh sống nhiều nhất?",
+        "answers": [
+          {
+            "text": "Istanbul",
+            "answer_start": 566
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0018-0030-0005",
+        "question": "Thành phố nào của Thổ Nhĩ Kỳ có người dân tập trung sinh sống ba phần tư?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.5166984841808836,
+    "wer": 0.54375,
+    "candidates": [
+      {
+        "context_id": "0018-0030",
+        "similarity": 0.5166984841808836,
+        "wer": 0.54375
+      },
+      {
+        "context_id": "0018-0031",
+        "similarity": 0.1837647809047244,
+        "wer": 0.9135802469135802
+      },
+      {
+        "context_id": "0107-0011",
+        "similarity": 0.1762384006738585,
+        "wer": 1.177142857142857
+      },
+      {
+        "context_id": "0018-0003",
+        "similarity": 0.15741218490426032,
+        "wer": 1.1047120418848169
+      },
+      {
+        "context_id": "0018-0021",
+        "similarity": 0.14634046812793927,
+        "wer": 1.1047120418848169
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_00f05fe8.mp3",
+    "transcription": "Bồ Đào Nha có một số lễ hội âm nhạc mùa hè, như Festival Sudo S tại Zambur Dj de Jorma, Festival The Perros de Carol tại Perros deere, Festival Viller de Moros gần Camille, Boom Festival tại Idonho Nova, Noesolai, Sumol Sumber Festival of Agnesera, Rock In Real, Liss Bo và Superburg Super Rock tại Đại Liss Bo. Ngoài mùa hè, Bồ Đào Nha có một lượng lớn các lễ hội hướng đến khán giả đô thị như Florffith tenh, Rock In Real, Liss Bo và Superburg Super Rock tại Đại Liss Bo. Ngoài mùa hè, Bồ Đào Nha có một lượng lớn các lễ hội hướng đến khán giả đô thị như Phờ Lâu Phít hay Hiếp Hóp Póc Tô năm hai nghìn không trăm linh năm Bồ Đào Nha tổ chức lễ trao giải âm nhạc Em Ti Vi châu Âu tại Pơ Vi Lao Atlantico Lít Bó Bồ Đào Nha giành chiến thắng tại Euro Vi Dừn xong con tét hai nghìn không trăm mười bảy với bài hát A Ma Pê Lốt doa do San Vơ Đo Sô Bờ Rô trình diễn.",
+    "context_id": "0057-0083",
+    "matched_context": "Bồ Đào Nha có một số lễ hội âm nhạc mùa hè, như Festival Sudoeste tại Zambujeira do Mar, Festival de Paredes de Coura tại Paredes de Coura, Festival Vilar de Mouros gần Caminha, Boom Festival tại Idanha-a-Nova, NOS Alive, Sumol Summer Fest tại Ericeira, Rock in Rio Lisboa và Super Bock Super Rock tại Đại Lisboa. Ngoài mùa hè, Bồ Đào Nha có một lượng lớn các lễ hội, hướng đến khán giả đô thị như Flowfest hay Hip Hop Porto. Năm 2005, Bồ Đào Nha tổ chức lễ trao giải âm nhạc MTV châu Âu tại Pavilhão Atlântico, Lisboa. Bồ Đào Nha giành chiến thắng tại Eurovision Song Contest 2017 với bài hát \"Amar pelos dois\" do Salvador Sobral trình diễn.",
+    "qas": [
+      {
+        "id": "0057-0083-0001",
+        "question": "Những lễ hội âm nhạc mùa hè nào được tổ chức ở Bồ Đào Nha?",
+        "answers": [
+          {
+            "text": "Festival Sudoeste tại Zambujeira do Mar, Festival de Paredes de Coura tại Paredes de Coura, Festival Vilar de Mouros gần Caminha, Boom Festival tại Idanha-a-Nova, NOS Alive, Sumol Summer Fest tại Ericeira, Rock in Rio Lisboa và Super Bock Super Rock tại Đại Lisboa",
+            "answer_start": 48
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0057-0083-0002",
+        "question": "Lễ hội âm nhạc Boom Festival được tổ chức tại đâu?",
+        "answers": [
+          {
+            "text": "Idanha-a-Nova",
+            "answer_start": 195
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0057-0083-0003",
+        "question": "Những lễ hội nào Bồ Đào Nha dành nhiều cho khán giải đô thị?",
+        "answers": [
+          {
+            "text": "Flowfest hay Hip Hop Porto",
+            "answer_start": 398
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0057-0083-0004",
+        "question": "Bồ Đào Nha tổ chức lễ trao giải âm nhạc MTV châu Âu vào năm 2005 tại đậu?",
+        "answers": [
+          {
+            "text": "Pavilhão Atlântico, Lisboa",
+            "answer_start": 492
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0057-0083-0005",
+        "question": "Bài hát nào đã giúp Bồ Đào Nha chiên thắng tại Eurovision Song Contest 2017?",
+        "answers": [
+          {
+            "text": "Amar pelos dois",
+            "answer_start": 595
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0057-0083-0006",
+        "question": "Những lễ hội âm nhạc mùa hè nào được tổ chức ở châu Âu?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0057-0083-0007",
+        "question": "Bài hát nào đã giúp Lisboa chiến thắng tại Eurovision Song Contest 2017?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.5447969291963413,
+    "wer": 0.864,
+    "candidates": [
+      {
+        "context_id": "0057-0083",
+        "similarity": 0.5447969291963413,
+        "wer": 0.864
+      },
+      {
+        "context_id": "0126-0103",
+        "similarity": 0.11556650042511711,
+        "wer": 1.3937007874015748
+      },
+      {
+        "context_id": "0057-0066",
+        "similarity": 0.10525406728508604,
+        "wer": 1.062111801242236
+      },
+      {
+        "context_id": "0057-0050",
+        "similarity": 0.10173700860531906,
+        "wer": 0.9540816326530612
+      },
+      {
+        "context_id": "0057-0059",
+        "similarity": 0.09835085934592187,
+        "wer": 1.2464788732394365
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a12e359.mp3",
+    "transcription": "Những nhà nghiên cứu kết luận rằng bệnh giang mai đã bị mang từ tân thế giới sang châu Âu sau chuyến hải hành của Colombo. Những nghiên cứu này cho rằng những người châu Âu có thể đang mang các vi khuẩn nhiệt đới không lây qua đường tình dục về nhà, tại đó các vi khuẩn đó đã đột biến thành một dạng nguy hiểm hơn trong điều kiện khác biệt ở châu Âu. Bệnh tật hồi đó thường dễ gây chết người hơn ngày nay, bệnh giang mai là căn bệnh gây chết người chủ yếu ở châu Âu trong thời kỳ phục hưng đại dịch tả đầu tiên bắt đầu tại Bengal sau đó đến năm đã lan ra khắp Ấn Độ binh lính Anh và vô số người Ấn đã chết trong đại dịch này từ năm sáu đến một nghìn tám trăm ba mươi bốn chỉ có khoảng mười phần trăm nhân viên của công ty Đông Ấn là sống sót để quay về được nhà. Gandema Harkin, người làm việc chủ yếu tại Ấn Độ, là nhà vi sinh đầu tiên phát triển và sử dụng vắc xin bệnh tả và dịch hạch.",
+    "context_id": "0076-0015",
+    "matched_context": "Những nhà nghiên cứu kết luận rằng bệnh giang mai đã bị mang từ Tân Thế giới sang châu Âu sau chuyến hải hành của Colombo. Những nghiên cứu này cho rằng những người châu Âu có thể đang mang các vi khuẩn nhiệt đới không lây qua đường tình dục về nhà, tại đó các vi khuẩn đó đã đột biến thành một dạng nguy hiểm hơn trong điều kiện khác biệt ở châu Âu. Bệnh tật hồi đó thường dễ gây chết người hơn ngày nay. Bệnh giang mai là căn bệnh gây chết người chủ yếu ở châu Âu trong Thời kỳ Phục hưng. Đại dịch tả đầu tiên bắt đầu tại Bengal, sau đó đến năm 1820 đã lan ra khắp Ấn Độ. 10.000 binh lính Anh và vô số người Ấn đã chết trong đại dịch này. Từ năm 1736 đến 1834 chỉ có khoảng 10% nhân viên của Công ty Đông Ấn là sống sót để quay về được nhà. Waldemar Haffkine, người làm việc chủ yếu tại Ấn Độ, là nhà vi sinh đầu tiên phát triển và sử dụng vắc-xin bệnh tả và dịch hạch.",
+    "qas": [
+      {
+        "id": "0076-0015-0001",
+        "question": "Các nhà nghiên cứu đã cho rằng bệnh giang mai đã bị đưa sang châu Âu trong sự kiện nào?",
+        "answers": [
+          {
+            "text": "chuyến hải hành của Colombo",
+            "answer_start": 94
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0015-0002",
+        "question": "Căn bệnh được cho là căn bệnh gây chết người trong Thời kỳ Phục hưng là gì?",
+        "answers": [
+          {
+            "text": "Bệnh giang mai",
+            "answer_start": 406
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0015-0003",
+        "question": "Tại Bengal là nơi xuất hiện đầu tiên của đại dịch nào?",
+        "answers": [
+          {
+            "text": "Đại dịch tả",
+            "answer_start": 491
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0015-0004",
+        "question": "Những ai đã chết trong đại dịch tả?",
+        "answers": [
+          {
+            "text": "10.000 binh lính Anh và vô số người Ấn",
+            "answer_start": 574
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0015-0005",
+        "question": "Có bao nhiêu nhân viên của Công ty Đông Ấn sống sót quay trở về?",
+        "answers": [
+          {
+            "text": "khoảng 10% nhân viên",
+            "answer_start": 669
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0015-0006",
+        "question": "Các nhà nghiên cứu đã cho rằng đại dịch tả đã bị đưa sang châu Âu trong sự kiện nào?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0076-0015-0007",
+        "question": "Căn bệnh được cho là căn bệnh gây chết người ngày nay là gì?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0076-0015-0008",
+        "question": "Những ai đã chết trong trong Thời kỳ Phục hưng?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0076-0015-0009",
+        "question": "Có bao nhiêu nhân viên của Công ty Bengal sống sót quay trở về?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.8663369444232504,
+    "wer": 0.08205128205128205,
+    "candidates": [
+      {
+        "context_id": "0076-0015",
+        "similarity": 0.8663369444232504,
+        "wer": 0.08205128205128205
+      },
+      {
+        "context_id": "0100-0009",
+        "similarity": 0.17939441478505966,
+        "wer": 1.3333333333333333
+      },
+      {
+        "context_id": "0076-0016",
+        "similarity": 0.14823788747935315,
+        "wer": 0.9769585253456221
+      },
+      {
+        "context_id": "0121-0002",
+        "similarity": 0.14672659532792637,
+        "wer": 0.9694323144104804
+      },
+      {
+        "context_id": "0042-0050",
+        "similarity": 0.1401727985040343,
+        "wer": 0.9617021276595744
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a29fa14.mp3",
+    "transcription": "Chính phủ Hoa Kỳ trong sách trắng về Việt Nam năm và đã đổ lỗi cho sự nổi dậy trên là xâm lược của Hà Nội mặc dù khái niệm xâm lược không thể được áp dụng ở một đất nước không bị chia cắt Hiệp định Geneva quy định giới tuyến quân sự tạm thời không được coi là biên giới quốc gia tổ chức Mặt trận Dân tộc giải phóng miền Nam Việt Nam luôn là công cụ của Việt Nam Dân chủ Cộng đối phương đáp lại các cuộc nổi dậy bắt đầu như là một cuộc nổi loạn chống lại chính phủ áp bức của Ngô Đình Diệm và chỉ từ cuối năm khi Hoa Kỳ sẽ cam kết nguồn lực lớn để giúp chính phủ Diệm trong cuộc chiến của mình Việt Nam Dân chủ Cộng thúc đẩy cuộc chiến với khẩu hiệu giải phóng miền Nam Việt Nam khỏi sự xâm lược của Mỹ.",
+    "context_id": "0074-0036",
+    "matched_context": "Chính phủ Hoa Kỳ, trong sách trắng về Việt Nam năm 1961 và 1965, đã đổ lỗi cho sự nổi dậy trên là \"xâm lược\" của Hà Nội mặc dù khái niệm xâm lược không thể được áp dụng ở một đất nước không bị chia cắt (Hiệp định Geneve quy định giới tuyến quân sự tạm thời không được coi là biên giới quốc gia), tổ chức Mặt trận Dân tộc Giải phóng miền Nam Việt Nam luôn là công cụ của Việt Nam Dân chủ Cộng hoà. Đối phương đáp lại các cuộc nổi dậy bắt đầu như là một cuộc nổi loạn chống lại chính phủ áp bức của Ngô Đình Diệm, và chỉ từ cuối năm 1960, khi Hoa Kỳ sẽ cam kết nguồn lực lớn để giúp chính phủ Diệm trong cuộc chiến của mình, Việt Nam Dân chủ Cộng hoà thúc đẩy cuộc chiến với khẩu hiệu giải phóng miền Nam Việt Nam khỏi sự xâm lược của Mỹ.",
+    "qas": [
+      {
+        "id": "0074-0036-0001",
+        "question": "Sự nổi dậy của người dân Việt Nam lúc bấy giờ bị chính phủ Hoa Kì gọi là gì?",
+        "answers": [
+          {
+            "text": "xâm lược",
+            "answer_start": 99
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0074-0036-0002",
+        "question": "Tổ chức nào được coi là công cụ hỗ trợ của Việt Nam Dân chủ Cộng Hòa?",
+        "answers": [
+          {
+            "text": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+            "answer_start": 304
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0074-0036-0003",
+        "question": "Khẩu hiệu của Việt Nam Dân chủ Cộng hoà khi Hoa Kì cam kết sẽ hỗ trợ chính quyền Ngô Đình Diệm?",
+        "answers": [
+          {
+            "text": "giải phóng miền Nam Việt Nam khỏi sự xâm lược của Mỹ",
+            "answer_start": 683
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0074-0036-0004",
+        "question": "Tổ chức nào được coi là công cụ đánh đuổi Việt Nam Dân chủ Cộng Hòa?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0074-0036-0005",
+        "question": "Khẩu hiệu của Việt Nam Dân chủ Cộng hoà khi Hoa Kì cắt đứt sự chi viện cho chính quyền Ngô Đình Diệm?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.936779325717744,
+    "wer": 0.03636363636363636,
+    "candidates": [
+      {
+        "context_id": "0074-0036",
+        "similarity": 0.936779325717744,
+        "wer": 0.03636363636363636
+      },
+      {
+        "context_id": "0074-0002",
+        "similarity": 0.28206983629657584,
+        "wer": 0.9026845637583892
+      },
+      {
+        "context_id": "0074-0015",
+        "similarity": 0.2737554875825833,
+        "wer": 0.9224137931034483
+      },
+      {
+        "context_id": "0109-0014",
+        "similarity": 0.2687651323977041,
+        "wer": 0.8908045977011494
+      },
+      {
+        "context_id": "0074-0040",
+        "similarity": 0.2505967007523571,
+        "wer": 0.9302325581395349
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a4ab7b3.mp3",
+    "transcription": "Quy khấu tạo thành mối uy hiếp nghiêm trọng đối với hải cương của Triều Minh tuy vậy thành phần chủ yếu của uy khấu không phải là người Nhật Bản mà là lưu dân bị phá sản tại khu vực duyên hải Trung Quốc mặc dù có các chiến dịch kháng uy của Chu Hoàn và chương kinh song cuối cùng đều không thể đạt được thành công hoàn toàn nhằm đề phòng uy khấu xâm nhiễu trong thời kỳ Thế Tông thực thi hải cấm đoạn tuyệt mậu dịch với Nhật Bản đến khi các danh tướng như thiết kế quang tậnực kháng uy, uy khấu mới bị trừ sạch, tình hình hải cương mới trở nên bình ổn hơn. Sau khi Tu Dô Tô Mi Hi Đê Dô Si thống nhất Nhật Bản có ý muốn chiếm lĩnh Triều Tiên, năm vạn lịch thứ mười một nghìn năm trăm chín mươi hai Nhật Bản tấn công Triều Tiên, quốc vương của Triều Tiên đào thoát sang nghĩa châu, đồng thời phái sứ giả cầu cứu triều đình minh, triều minng giành được thắng lợi trong chiến tranh. Hai bên từng tiến hành đàm xong sau năm vạn lịch thứ hai mươi lăm một nghìn năm trăm chín mươi bảy, Nhật Bản lại tiến công Triều Tiên năm vạn lịch thứ hai mươi sáu một nghìn năm trăm chín mươi tám tô Dô Tô Mi Hi Đê Ô Si bệnh mất lòng quân Nhật Bản dao động kết quả là trệch quân chiến tranh với Nhật Bản làm suy yếu nghiêm trọng quốc lực của Minh và Triều Tiên, còn Nhật Bản rơi vào tình trạng phân liệt trong khi đó các bộ lạc nữ chân trở thành bên hưởng lợi.",
+    "context_id": "0101-0057",
+    "matched_context": "Uy khấu tạo thành mối uy hiếp nghiêm trọng đối với hải cương của triều Minh, tuy vậy thành phần chủ yếu của Uy khấu không phải là người Nhật Bản mà là lưu dân bị phá sản tại khu vực duyên hải Trung Quốc. Mặc dù có các chiến dịch \"kháng Uy\" của Chu Hoàn và Trương Kinh, song cuối cùng đều không thể đạt được thành công hoàn toàn. Nhằm đề phòng Uy khấu xâm nhiễu, trong thời kỳ Thế Tông thực thi hải cấm, đoạn tuyệt mậu dịch với Nhật Bản. Đến khi các danh tướng như Thích Kế Quang tận lực \"kháng Uy\", Uy khấu mới bị trừ sạch, tình hình hải cương mới trở nên bình ổn hơn. Sau khi Toyotomi Hideyoshi thống nhất Nhật Bản, có ý muốn chiếm lĩnh Triều Tiên. Năm Vạn Lịch thứ 20 (1592), Nhật Bản tấn công Triều Tiên, Quốc vương của Triều Tiên đào thoát sang Nghĩa Châu đồng thời phái sứ giả cầu cứu triều đình Minh. Triều Minh từng giành được thắng lợi trong chiến tranh, hai bên từng tiến hành hòa đàm, song sau năm Vạn Lịch thứ 25 (1597) Nhật Bản lại tiến công Triều Tiên. Năm Vạn Lịch thứ 26 (1598), Toyotomi Hideyoshi bệnh mất, lòng quân Nhật Bản dao động, kết quả là triệt quân. Chiến tranh với Nhật Bản làm suy yếu nghiêm trọng quốc lực của Minh và Triều Tiên, còn Nhật Bản rơi vào tình trạng phân liệt, trong khi đó các bộ lạc Nữ Chân trở thành bên hưởng lợi.",
+    "qas": [
+      {
+        "id": "0101-0057-0001",
+        "question": "Uy khấu gồm đa số thành phần là những ai?",
+        "answers": [
+          {
+            "text": "lưu dân bị phá sản tại khu vực duyên hải Trung Quốc",
+            "answer_start": 151
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0101-0057-0002",
+        "question": "Triều Tiên trở thành mục tiêu chiếm đoạt của Nhật Bản sau khi sự kiện nào xảy ra?",
+        "answers": [
+          {
+            "text": "Toyotomi Hideyoshi thống nhất Nhật Bản",
+            "answer_start": 577
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0101-0057-0003",
+        "question": "Vì sao quân Nhật Bản lại dao động không giữ được sự quyết tâm chiến đấu?",
+        "answers": [
+          {
+            "text": "Toyotomi Hideyoshi bệnh mất",
+            "answer_start": 994
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0101-0057-0004",
+        "question": "Chiến tranh Nhật Bản với Triều Tiên và nhà Minh thì bên nào được hưởng lợi?",
+        "answers": [
+          {
+            "text": "các bộ lạc Nữ Chân",
+            "answer_start": 1214
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0101-0057-0005",
+        "question": "Nhà Minh và Triều Tiên phải chịu hậu quả như thế nào sau cuộc chiến với Nhật Bản?",
+        "answers": [
+          {
+            "text": "suy yếu nghiêm trọng quốc lực",
+            "answer_start": 1104
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0101-0057-0006",
+        "question": "Trung Quốc trở thành mục tiêu chiếm đoạt của Nhật Bản sau khi sự kiện nào xảy ra?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0101-0057-0007",
+        "question": "Chiến tranh Trung Quốc với Triều Tiên và nhà Minh thì bên nào được hưởng lợi?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.7650831794461893,
+    "wer": 0.20610687022900764,
+    "candidates": [
+      {
+        "context_id": "0101-0057",
+        "similarity": 0.7650831794461893,
+        "wer": 0.20610687022900764
+      },
+      {
+        "context_id": "0101-0055",
+        "similarity": 0.26545524137325416,
+        "wer": 1.060377358490566
+      },
+      {
+        "context_id": "0101-0058",
+        "similarity": 0.21847544272596134,
+        "wer": 0.9417249417249417
+      },
+      {
+        "context_id": "0101-0056",
+        "similarity": 0.20932826958627135,
+        "wer": 0.9671641791044776
+      },
+      {
+        "context_id": "0101-0030",
+        "similarity": 0.19806614745654666,
+        "wer": 1.5054945054945055
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a512856.mp3",
+    "transcription": "Trong các cuộc viễn chinh, Elizabeth không muốn đáp ứng yêu cầu của các tư lệnh mặt trận khi họ cần thêm quân dụng và viện binh. Noy phải đích thân về London để cầu viện. Khi ấy, quân đội của liên minh Công giáo tiến đến tàn sát binh lính của ông tại Crayon, phía tây bắc nước Pháp, vào tháng 5 năm 1591. Tháng 7, Elizabeth gởi một đạo quân khác dưới quyền chỉ huy của Robert Devin, bá tước sứ Esseics, đến giúp Henri Ivy vây hãm thành Rome. Lại thêm một thất bại, Dever chẳng làm được gì và phải trở về vào tháng Một năm 1592. Thông thường, Elizabeth không kiểm soát được các tư lệnh một khi họ đem quân ra nước ngoài. Ông ta ở đâu, làm gì hoặc sẽ làm gì? Trẫm không hề hay biết. Elizabeth viết như thế về Deaver.",
+    "context_id": "0134-0024",
+    "matched_context": "Trong các cuộc viễn chinh, Elizabeth không muốn đáp ứng yêu cầu của các tư lệnh mặt trận khi họ cần thêm quân dụng và viện binh. Norreys phải đích thân về Luân Đôn để cầu viện, khi ấy quân đội của Liên minh Công giáo tiến đến tàn sát binh lính của ông tại Craon, phía tây bắc nước Pháp, vào tháng 5 năm 1591. Tháng 7, Elizabeth gởi một đạo quân khác dưới quyền chỉ huy của Robert Devereux, Bá tước xứ Essex, đến giúp Henri IV vây hãm thành Rouen. Lại thêm một thất bại: Devereux chẳng làm được gì và phải trở về vào tháng 1 năm 1592. Thông thường, Elizabeth không kiểm soát được các tư lệnh một khi họ đem quân ra nước ngoài. \"Ông ta ở đâu, làm gì, hoặc sẽ làm gì, trẫm không hề hay biết.\" Elizabeth viết như thế về Devereux.",
+    "qas": [
+      {
+        "id": "0134-0024-0001",
+        "question": "Elizabeth không muốn làm điều gì khi các cuộc diễn chinh xảy ra?",
+        "answers": [
+          {
+            "text": "đáp ứng yêu cầu của các tư lệnh mặt trận khi họ cần thêm quân dụng và viện binh",
+            "answer_start": 48
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0134-0024-0002",
+        "question": "Nhằm xin cầu viện nên Norreys đã phải làm gì?",
+        "answers": [
+          {
+            "text": "đích thân về Luân Đôn",
+            "answer_start": 142
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0134-0024-0003",
+        "question": "Khi Norreys về Luân Đôn thì sự kiện gì đã xảy ra?",
+        "answers": [
+          {
+            "text": "quân đội của Liên minh Công giáo tiến đến tàn sát binh lính của ông tại Craon",
+            "answer_start": 184
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0134-0024-0004",
+        "question": "Lý do mà Elizabeth gửi đạo quân do Robert Devereux chỉ huy cho Henri IV là gì?",
+        "answers": [
+          {
+            "text": "giúp Henri IV vây hãm thành Rouen",
+            "answer_start": 412
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0134-0024-0005",
+        "question": "Devereux đã được Elizabeth viết về mình như thế nào?",
+        "answers": [
+          {
+            "text": "Ông ta ở đâu, làm gì, hoặc sẽ làm gì, trẫm không hề hay biết",
+            "answer_start": 627
+          }
+        ],
+        "is_impossible": false
+      }
+    ],
+    "similarity": 0.846990235484689,
+    "wer": 0.07947019867549669,
+    "candidates": [
+      {
+        "context_id": "0134-0024",
+        "similarity": 0.846990235484689,
+        "wer": 0.07947019867549669
+      },
+      {
+        "context_id": "0134-0023",
+        "similarity": 0.19306822099280183,
+        "wer": 1.0434782608695652
+      },
+      {
+        "context_id": "0134-0026",
+        "similarity": 0.18666038415608968,
+        "wer": 1.2685185185185186
+      },
+      {
+        "context_id": "0134-0007",
+        "similarity": 0.17291998776387202,
+        "wer": 0.94
+      },
+      {
+        "context_id": "0134-0016",
+        "similarity": 0.1699461249583255,
+        "wer": 0.939622641509434
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a649a79.mp3",
+    "transcription": "Khi sao Kim chuyển động trên quỹ đạo hình ảnh của nó hiện lên qua kính thiên văn với những pha khác nhau giống như pha mặt trăng. Trong pha sao Kim hành tinh có hình ảnh tròn đầy nhỏ khi mặt trời ở giữa tương đối sao Kim và trái đất. Nó có pha phần tư lớn dần khi tiến đến vị trí có góc li giác lớn nhất tính từ mặt trời và chính là vị trí nó có độ sáng lớn nhất và hiện lên với hình lưỡi liềm mỏng dần khi quan sát qua thấu kính khi nó tiến về phía gần trái đất. Hình ảnh của sao Kim lớn nhất khi nó ở phà mới, lúc hành tinh ở giữa Trái Đất và Mặt Trời, khí quyển của nó có thể nhìn qua kính thiên văn và chúng ta sẽ nhận thấy một vành sáng phản xạ của ánh sáng Mặt Trời trên khí quyển hành tinh.",
+    "context_id": "0071-0024",
+    "matched_context": "Khi Sao Kim chuyển động trên quỹ đạo, hình ảnh của nó hiện lên qua kính thiên văn với những pha khác nhau giống như pha Mặt Trăng: Trong pha Sao Kim, hành tinh có hình ảnh tròn \"đầy\" nhỏ khi Mặt Trời ở giữa tương đối Sao Kim và Trái Đất. Nó có pha phần tư lớn dần khi tiến đến vị trí có góc ly giác lớn nhất tính từ Mặt Trời, và chính là vị trí nó có độ sáng lớn nhất, và hiện lên với hình lưỡi liềm mỏng dần khi quan sát qua thấu kính khi nó tiến về phía gần Trái Đất. Hình ảnh của Sao Kim lớn nhất khi nó ở \"pha mới\", lúc hành tinh ở giữa Trái Đất và Mặt Trời. Khí quyển của nó có thể nhìn qua kính thiên văn và chúng ta sẽ nhận thấy một vành sáng phản xạ của ánh sáng Mặt Trời trên khí quyển hành tinh.",
+    "qas": [
+      {
+        "id": "0071-0024-0001",
+        "question": "Hình ảnh của sao Kim hiện lên kính thiên văn là gì?",
+        "answers": [
+          {
+            "text": "những pha khác nhau giống như pha Mặt Trăng",
+            "answer_start": 86
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0071-0024-0002",
+        "question": "Khi nào pha phần tư tăng dần?",
+        "answers": [
+          {
+            "text": "tiến đến vị trí có góc ly giác lớn nhất tính từ Mặt Trời",
+            "answer_start": 268
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0071-0024-0003",
+        "question": "Khi nào độ sáng đạt cực đại?",
+        "answers": [
+          {
+            "text": "tiến đến vị trí có góc ly giác lớn nhất tính từ Mặt Trờ",
+            "answer_start": 268
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0071-0024-0004",
+        "question": "Khi nào hình ảnh sao Kim cực đại?",
+        "answers": [
+          {
+            "text": "ở giữa Trái Đất và Mặt Trời",
+            "answer_start": 534
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0071-0024-0005",
+        "question": "Chúng ta quan sát được gì qua kính thiên văn?",
+        "answers": [
+          {
+            "text": "Khí quyển của nó có thể nhìn qua kính thiên văn",
+            "answer_start": 563
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0071-0024-0006",
+        "question": "Phản xạ của sao Kim hiện lên kính thiên văn là gì?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0071-0024-0007",
+        "question": "Khi nào pha phần tư giảm dần?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.9804484868582207,
+    "wer": 0.012345679012345678,
+    "candidates": [
+      {
+        "context_id": "0071-0024",
+        "similarity": 0.9804484868582207,
+        "wer": 0.012345679012345678
+      },
+      {
+        "context_id": "0071-0029",
+        "similarity": 0.3781256740184368,
+        "wer": 1.170731707317073
+      },
+      {
+        "context_id": "0071-0022",
+        "similarity": 0.3350368627849284,
+        "wer": 1.1818181818181819
+      },
+      {
+        "context_id": "0071-0023",
+        "similarity": 0.294151147756888,
+        "wer": 0.9180327868852459
+      },
+      {
+        "context_id": "0071-0027",
+        "similarity": 0.29078512659984557,
+        "wer": 1.216
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a67eba8.mp3",
+    "transcription": "Vào thập niên một nghìn chín trăm hai mươi, Hoa Kỳ phát triển tầm vóc một cách đều đặn trong tư cách của một cường quốc quân sự và kinh tế của thế giới. Thượng viện Hoa Kỳ thông qua Hiệp ước Versace mà phe Đồng minh đã áp đặt đối với phe bại trận là Liên minh Trung tâm. Thay vào đó, Hoa Kỳ chọn theo đuổi chính sách đơn phương. Dư chấn của cuộc Cách mạng tháng Mười mang đến nỗi lo sợ thật sự về chủ nghĩa cộng sản tại Hoa Kỳ kéo theo hiện tượng mối đe đỏ và việc trục xuất người ngoại quốc nào bị tình nghi là có ý đồ lật đổ.",
+    "context_id": "0100-0068",
+    "matched_context": "Vào thập niên 1920, Hoa Kỳ phát triển tầm vóc một cách đều đặn trong tư cách của một cường quốc quân sự và kinh tế của thế giới. Thượng viện Hoa Kỳ thông qua Hiệp ước Versailles mà phe đồng minh đã áp đặt đối với phe bại trận là Liên minh Trung tâm. Thay vào đó, Hoa Kỳ chọn theo đuổi chính sách đơn phương. Dư chấn của cuộc Cách mạng Tháng Mười mang đến nổi lo sợ thật sự về chủ nghĩa cộng sản tại Hoa Kỳ, kéo theo hiện tượng \"mối đe dọa đỏ\" và việc trục xuất người ngoại quốc nào bị tình nghi là có ý đồ lật đổ.",
+    "qas": [
+      {
+        "id": "0100-0068-0001",
+        "question": "Hoa Kỳ là một cường quốc của thế giới về lĩnh vực gì trong thập niên 1920?",
+        "answers": [
+          {
+            "text": "quân sự và kinh tế",
+            "answer_start": 96
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0068-0002",
+        "question": "Phe bại trận đã bị phe đống minh áp đặt bằng hiệp ước gì mà đã được thượng viện Hoa Kỳ thông qua?",
+        "answers": [
+          {
+            "text": "Hiệp ước Versailles",
+            "answer_start": 158
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0068-0003",
+        "question": "Chính sách nào đã được Hoa Kỳ chọn để theo đuổi?",
+        "answers": [
+          {
+            "text": "đơn phương",
+            "answer_start": 296
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0068-0004",
+        "question": "Hoa Kỳ tồn tại nỗi lo sợ về điều gì sau cuộc Cách mạng Tháng Mười?",
+        "answers": [
+          {
+            "text": "chủ nghĩa cộng sản",
+            "answer_start": 376
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0100-0068-0005",
+        "question": "Phe bại trận đã bị phe đồng minh lật đổ bằng hiệp ước gì mà đã được thượng viện Hoa Kỳ thông qua?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.8902200706864024,
+    "wer": 0.0782608695652174,
+    "candidates": [
+      {
+        "context_id": "0100-0068",
+        "similarity": 0.8902200706864024,
+        "wer": 0.0782608695652174
+      },
+      {
+        "context_id": "0095-0033",
+        "similarity": 0.1689739942752084,
+        "wer": 1.0454545454545454
+      },
+      {
+        "context_id": "0100-0006",
+        "similarity": 0.1689148845474565,
+        "wer": 0.9459459459459459
+      },
+      {
+        "context_id": "0100-0063",
+        "similarity": 0.16209452458471896,
+        "wer": 0.9914529914529915
+      },
+      {
+        "context_id": "0059-0022",
+        "similarity": 0.14508641282128043,
+        "wer": 0.9298245614035088
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a7d0712.mp3",
+    "transcription": "Thành phố chịu ảnh hưởng nặng nề trong Thế chiến thứ hai, nhiều người Do Thái đã bị giết trong thời kỳ chiếm đóng của Đức. Ngoài ra bức tường Đại Tây Dương đã được xây dựng thông qua thành phố gây ra một phần tư lớn bị phá bởi những người ở Đức quốc xã. Vào ngày ba tháng ba năm một nghìn chín trăm bốn mươi lăm không quân hoảng gia đã nhầm lẫn ném bom khu bê Duy Đề Nào, mục tiêu là lắp đặt các tên lửa vê hai trong công viênên Hát Xê Bát gần đó nhưng do những sai sót về đường đi bom đã rơi vào một khu vực đông dân cư và lịch sử của thành phố cuộc bắn phá đã phá khắp khu vực và gây ra năm trăm người tử vong.",
+    "context_id": "0132-0005",
+    "matched_context": "Thành phố chịu ảnh hưởng nặng nề trong Thế chiến II. Nhiều người Do Thái đã bị giết trong thời kỳ chiếm đóng của Đức. Ngoài ra, bức tường Đại Tây Dương đã được xây dựng thông qua thành phố, gây ra một phần tư lớn bị phá hủy bởi những người ở Đức Quốc xã. Vào ngày 3 tháng 3 năm 1945, Không quân Hoàng gia đã nhầm lẫn ném bom khu Bezuidenhout. Mục tiêu là lắp đặt các tên lửa V-2 trong công viên Haagse Bos gần đó, nhưng do những sai sót về đường đi, bom đã rơi vào một khu vực đông dân cư và lịch sử của thành phố. Cuộc bắn phá đã phá huỷ khắp khu vực và gây ra 511 người tử vong.",
+    "qas": [
+      {
+        "id": "0132-0005-0001",
+        "question": "Người Do Thái đã bị thảm sát vào thời điểm nào?",
+        "answers": [
+          {
+            "text": "thời kỳ chiếm đóng của Đức",
+            "answer_start": 90
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0132-0005-0002",
+        "question": "Vụ ném bom nhầm lẫn khu Bezuidenhout xảy ra khi nào?",
+        "answers": [
+          {
+            "text": "ngày 3 tháng 3 năm 1945",
+            "answer_start": 259
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0132-0005-0003",
+        "question": "Vụ ném bom nhầm lẫn khu Bezuidenhout đã gây ra hậu quả gì?",
+        "answers": [
+          {
+            "text": "phá huỷ khắp khu vực và gây ra 511 người tử vong",
+            "answer_start": 531
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0132-0005-0004",
+        "question": "Người Do Thái đã bị bắt giữ vào thời điểm nào?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0132-0005-0005",
+        "question": "Có bao nhiêu người chết khi không quân Hoàng gia ném bom vào ngày 3 tháng 3 năm 1945?",
+        "answers": [
+          {
+            "text": "511",
+            "answer_start": 563
+          }
+        ],
+        "is_impossible": false
+      }
+    ],
+    "similarity": 0.7238136655978707,
+    "wer": 0.1984732824427481,
+    "candidates": [
+      {
+        "context_id": "0132-0005",
+        "similarity": 0.7238136655978707,
+        "wer": 0.1984732824427481
+      },
+      {
+        "context_id": "0070-0018",
+        "similarity": 0.1507433570594398,
+        "wer": 0.915057915057915
+      },
+      {
+        "context_id": "0024-0014",
+        "similarity": 0.1427801102283479,
+        "wer": 1.0708661417322836
+      },
+      {
+        "context_id": "0116-0003",
+        "similarity": 0.14078970444025787,
+        "wer": 0.948051948051948
+      },
+      {
+        "context_id": "0116-0005",
+        "similarity": 0.13691217593823307,
+        "wer": 0.935251798561151
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a941440.mp3",
+    "transcription": "Tại nhiều nơi, các đội quân thực dân đã tiêu diệt sạch dân bản địa để giành lấy đất đai. Tiêu biểu nhất là cuộc diệt chủng người bản địa Bắc Mỹ kéo dài cho đến cuối thế kỷ mười chín, khi những người thổ dân da đỏ châu Mỹ bị tàn sát và đuổi khỏi đất đai của họ. Tại nhiều nơi, người da đỏ tổ chức chiến đấu chống lại quân Mỹ nhưng cuối cùng họ vẫn bị đánh bại. Có khoảng một trăm cuộc chiến và hàng chục ngàn trận chiến nhỏ khác đã diễn ra từ năm một nghìn bảy trăm tám mươi ba đến một nghìn chín trăm hai mươi bốn. Năm một nghìn chín trăm hai mươi tư chiến tranh A Pa Chê tại mặt trận Tây Nam giữa bộ tộc A Pa Chê chống đỡ cuộc xâm lăng của quân đội Mỹ kết thúc với thất bại của bộ tộc A Pa Chê đã đánh dấu thất bại cuối cùng của cuộc kháng chiến dài ba trăm linh hai năm của người da đỏ chống thực dân châu Âu kể từ trận Zem Sờ Tao năm một nghìnáu trăm hai mươi hai giữa thực dân Anh và liên minh Poa Hata ở thuộc địa Virginia và một trăm bốn mươi mốt năm chống quân Mỹ của các bộ tộc da đỏ bản xứ.",
+    "context_id": "0076-0023",
+    "matched_context": "Tại nhiều nơi, các đội quân thực dân đã tiêu diệt sạch dân bản địa để giành lấy đất đai. Tiêu biểu nhất là cuộc Diệt chủng người bản địa Bắc Mỹ kéo dài cho đến cuối thế kỷ 19, khi những người thổ dân da đỏ châu Mỹ bị tàn sát và đuổi khỏi đất đai của họ. Tại nhiều nơi, người da đỏ tổ chức chiến đấu chống lại quân Mỹ nhưng cuối cùng họ vẫn bị đánh bại. Có khoảng 100 cuộc chiến và hàng chục ngàn trận chiến nhỏ khác đã diễn ra từ năm 1783 đến 1924. Năm 1924, Chiến tranh Apache tại mặt trận Tây Nam giữa bộ tộc Apache chống đỡ cuộc xâm lăng của quân đội Mỹ kết thúc với thất bại của bộ tộc Apache, đã đánh dấu thất bại cuối cùng của cuộc kháng chiến dài 302 năm của người da đỏ chống thực dân châu Âu (kể từ trận Jamestown năm 1622 giữa thực dân Anh và liên minh Powhatan ở thuộc địa Virginia) và 141 năm chống quân Mỹ của các bộ tộc da đỏ bản xứ.",
+    "qas": [
+      {
+        "id": "0076-0023-0001",
+        "question": "Các đội quân thực dân đã tiêu diệt sạch dân bản địa nhằm mục đích gì?",
+        "answers": [
+          {
+            "text": "giành lấy đất đai",
+            "answer_start": 70
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0023-0002",
+        "question": "Cuộc Diệt chủng người bản địa Bắc Mỹ kết thúc vào thế kỷ nào?",
+        "answers": [
+          {
+            "text": "cuối thế kỷ 19",
+            "answer_start": 160
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0023-0003",
+        "question": "Trong khoảng thời gian từ 1783 đến 1924 đã có bao nhiêu cuộc chiến xảy ra?",
+        "answers": [
+          {
+            "text": "khoảng 100 cuộc chiến và hàng chục ngàn trận chiến nhỏ",
+            "answer_start": 356
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0023-0004",
+        "question": "Cuộc chiến nào đã đánh dấu sự thua cuộc của người da đỏ đối với thực dân châu Âu?",
+        "answers": [
+          {
+            "text": "Chiến tranh Apache",
+            "answer_start": 459
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0023-0005",
+        "question": "Người dân da đỏ đã chống lại sự xâm lược của quân Mỹ trong thời gian bao nhiêu năm?",
+        "answers": [
+          {
+            "text": "141 năm",
+            "answer_start": 797
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0076-0023-0006",
+        "question": "Các đội quân thực dân đã tiêu diệt sạch bộ tộc Apache nhằm mục đích gì?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0076-0023-0007",
+        "question": "Cuộc Diệt chủng người bản địa Anh kết thúc vào thế kỷ nào?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0076-0023-0008",
+        "question": "Cuộc chiến nào đã đánh dấu sự chống lại của người da đỏ đối với thực dân châu Âu?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0076-0023-0009",
+        "question": "Người dân da đen đã chống lại sự xâm lược của quân Mỹ trong thời gian bao nhiêu năm?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.6700369089586807,
+    "wer": 0.2857142857142857,
+    "candidates": [
+      {
+        "context_id": "0076-0023",
+        "similarity": 0.6700369089586807,
+        "wer": 0.2857142857142857
+      },
+      {
+        "context_id": "0076-0018",
+        "similarity": 0.16265714973112347,
+        "wer": 1.0325581395348837
+      },
+      {
+        "context_id": "0010-0023",
+        "similarity": 0.15249171420028068,
+        "wer": 0.9673469387755103
+      },
+      {
+        "context_id": "0100-0014",
+        "similarity": 0.1425170967305615,
+        "wer": 1.4064516129032258
+      },
+      {
+        "context_id": "0021-0047",
+        "similarity": 0.1416838463090558,
+        "wer": 1.0628019323671498
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0a974cb5.mp3",
+    "transcription": "Đất Nam Bộ còn là một vựa lúa chính, đồng thời là vựa trái cây nổi tiếng với đủ các chủng loại hoa quả miền nhiệt đới, từ chôm chôm, vú sữa, măng cụt, sầu riêng cho đến mít, chuối, xoài, ổi, nhãn, cam quýt... Mỗi địa phương đều có bảo tồn loại sản vật riêng, đa dạng và phong phú. Với ưu thế sông ngòi, kênh rạch chằng chịt, bương biển ngập nước mênh mông là nơi sinh sống lý tưởng của rắn rết cá sấu rùa ba ba tôm cá cua còng và cả các loại chim chóc nữa nam bộ tập trung nhiều món ăn ngon nhiều sản vật lạ từ lâu đã đi vào kho tàng văn học dân gian.",
+    "context_id": "0069-0005",
+    "matched_context": "Đất Nam Bộ còn là một vựa lúa chính, đồng thời là vựa trái cây nổi tiếng với đủ các chủng loại hoa quả miền nhiệt đới. Từ chôm chôm, vú sữa, măng cụt, sầu riêng cho đến mít, chuối, xoài, ổi, nhãn, cam, quýt... Mỗi địa phương đều có bảo tồn loại sản vật riêng, đa dạng và phong phú. Với ưu thế sông ngòi, kênh rạch chằng chịt, bưng biền ngập nước mênh mông là nơi sanh sống lý tưởng của rắn rết, cá sấu, rùa, ba ba, tôm, cá, cua, còng... và cả các loại chim chóc nữa. Nam Bộ tập trung nhiều món ăn ngon, nhiều sản vật lạ từ lâu đã đi vào kho tàng văn học dân gian.",
+    "qas": [
+      {
+        "id": "0069-0005-0001",
+        "question": "Đâu là vựa lúa lớn nhất nước ta?",
+        "answers": [
+          {
+            "text": "Đất Nam Bộ",
+            "answer_start": 0
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0069-0005-0002",
+        "question": "Về nông nghiệp, ngoài việc là vựa lúa lớn nhất, đồng bằng sông Cửu Long còn nổi tiếng với mặt hàng nào?",
+        "answers": [
+          {
+            "text": "trái cây",
+            "answer_start": 54
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0069-0005-0003",
+        "question": "Nêu các loại trái cây nổi tiếng ở Nam Bộ?",
+        "answers": [
+          {
+            "text": "Từ chôm chôm, vú sữa, măng cụt, sầu riêng cho đến mít, chuối, xoài, ổi, nhãn, cam, quýt",
+            "answer_start": 119
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0069-0005-0004",
+        "question": "Nhờ đâu mà nguồn tài nguyên sinh vật ở Nam Bộ rất phong phú?",
+        "answers": [
+          {
+            "text": "sông ngòi, kênh rạch chằng chịt, bưng biền ngập nước mênh mông",
+            "answer_start": 293
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0069-0005-0005",
+        "question": "Các loại sinh vật nào là đặc trưng ở Nam Bộ?",
+        "answers": [
+          {
+            "text": "rắn rết, cá sấu, rùa, ba ba, tôm, cá, cua, còng... và cả các loại chim chóc",
+            "answer_start": 386
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0069-0005-0006",
+        "question": "Đâu là vựa lúa phát triển nhất nước ta?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0069-0005-0007",
+        "question": "Nhờ đâu mà nguồn tài nguyên khoáng sản ở Nam Bộ rất phong phú?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0069-0005-0008",
+        "question": "hoa quả miền nhiệt đới là đặc sản vùng nào?",
+        "answers": [
+          {
+            "text": "Đất Nam Bộ",
+            "answer_start": 0
+          }
+        ],
+        "is_impossible": false
+      }
+    ],
+    "similarity": 0.9774122220041109,
+    "wer": 0.024193548387096774,
+    "candidates": [
+      {
+        "context_id": "0069-0005",
+        "similarity": 0.9774122220041109,
+        "wer": 0.024193548387096774
+      },
+      {
+        "context_id": "0058-0001",
+        "similarity": 0.15606251718893444,
+        "wer": 0.9398496240601504
+      },
+      {
+        "context_id": "0058-0006",
+        "similarity": 0.14011070240028128,
+        "wer": 0.9795918367346939
+      },
+      {
+        "context_id": "0027-0031",
+        "similarity": 0.11935919328938913,
+        "wer": 0.9668674698795181
+      },
+      {
+        "context_id": "0058-0007",
+        "similarity": 0.1132789872675032,
+        "wer": 0.9625
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0aa3e460.mp3",
+    "transcription": "Ông bà nội của Trump, Elizabeth và Frederick Trump vốn là người Đức, sau đó nhập cư tại Mỹ năm một nghìn tám trăm tám mươi lăm. Frederick Trump là một ông chủ quán ăn thành đạt giữa cơn sốt tìm vàng tại C lon Đai. Họ của ông ban đầu là Trump, nhưng sau đó được đổi thành Trump hồi thế kỷ mười bảy. Trong cuốn sách xuất bản năm một nghìn chín trăm tám mươi bảy của mình, kỳ Ap thập điô nghệ thuật đàm phán trăm có viết nhầm rằng Frederick Trump là người gốc Điển, theo như lời cha ông Fred Trump nói suốt nhiều năm sau này, Trump có công nhận nguồn gốc Đức của mình và là người chủ trì cuộc diễu hành Steven Ben của người Mỹ gốc Đức tại Nevê Kép, một nghìn chín trăm chín mươi chín.",
+    "context_id": "0087-0005",
+    "matched_context": "Ông bà nội của Trump, Elizabeth và Frederick Trump, vốn là người Đức sau đó nhập cư tại Mỹ năm 1885. Frederick là một ông chủ quán ăn thành đạt giữa cơn sốt tìm vàng tại Klondike. Họ của ông ban đầu là Drumpf, nhưng sau đó được đổi thành Trump hồi thế kỷ XVII. Trong cuốn sách xuất bản năm 1987 của mình, The Art of Deal (Nghệ thuật Đàm phán), Trump có viết nhầm rằng Frederick Trump là người gốc Thụy Điển, theo như lời cha ông Fred Trump nói suốt nhiều năm. Sau này Trump có công nhận nguồn gốc Đức của mình và là người chủ trì cuộc diễu hành Steuben của người Mỹ gốc Đức tại New York năm 1999.",
+    "qas": [
+      {
+        "id": "0087-0005-0001",
+        "question": "Donald John Trump có gốc là người nước nào?",
+        "answers": [
+          {
+            "text": "người Đức",
+            "answer_start": 59
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0087-0005-0002",
+        "question": "Nghề nghiệp của ông nội của Donald John Trump là gì?",
+        "answers": [
+          {
+            "text": "ông chủ quán ăn",
+            "answer_start": 118
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0087-0005-0003",
+        "question": "Ai là người chủ trì cuộc diễu hành Steuben?",
+        "answers": [
+          {
+            "text": "Trump",
+            "answer_start": 468
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0087-0005-0004",
+        "question": "Ai là người tham gia cuộc diễu hành Steuben?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0087-0005-0005",
+        "question": "Ai có họ ban đầu là Drumpf?",
+        "answers": [
+          {
+            "text": "Elizabeth và Frederick Trump",
+            "answer_start": 22
+          }
+        ],
+        "is_impossible": false
+      }
+    ],
+    "similarity": 0.6987341012449078,
+    "wer": 0.304,
+    "candidates": [
+      {
+        "context_id": "0087-0005",
+        "similarity": 0.6987341012449078,
+        "wer": 0.304
+      },
+      {
+        "context_id": "0087-0001",
+        "similarity": 0.17199487377154918,
+        "wer": 0.9382022471910112
+      },
+      {
+        "context_id": "0087-0048",
+        "similarity": 0.1573959719832503,
+        "wer": 1.0
+      },
+      {
+        "context_id": "0087-0004",
+        "similarity": 0.15646735871312256,
+        "wer": 0.9515151515151515
+      },
+      {
+        "context_id": "0087-0006",
+        "similarity": 0.1433277444728102,
+        "wer": 1.0285714285714285
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0aa50881.mp3",
+    "transcription": "Ả Rập Xê Út đầu tư đáng kể vào việc khử muối nước biển cung cấp nước hệ thống thoát nước và xử lý nước làm tăng đáng kể tỷ lệ dân chúng được tiếp cận nước uống và cải thiện điều kiện vệ sinh trong các thập niên qua khoảng năm mươi phần trăm nước uống có nguồn gốc từ nước khử muối bốn mươi phần trăm đến từ khai thác nước ngầm và mười phần trăm đến từ nước bề mặt đặc biệt tại vùng núi non Tây Nam thủ đô Ri Rát được cung cấp nước khử muối bơm từ Vịnh Ba Tư với khoảng cách bốn trăm sáu mươi bảy ki lô mét nhờ thu nhập từ dầu mỏ nước được cung cấp gần như miễn phí mặc dù chất lượng dịch vụ được cải thiện xong vẫn còn thấp chẳng hạn tại Ri Yát chỉ có nước một lần trong mũi hai phẩy năm ngày vào năm hai nghìn không trăm mười một còn tại Déc Đa chỉ có nước chín ngày một lần.",
+    "context_id": "0045-0042",
+    "matched_context": "Ả Rập Xê Út đầu tư đáng kể vào việc khử muối nước biển, cung cấp nước, hệ thống thoát nước và xử lý nước, làm tăng đáng kể tỷ lệ dân chúng được tiếp cận nước uống và cải thiện điều kiện vệ sinh trong các thập niên qua. Khoảng 50% nước uống có nguồn gốc từ nước khử muối, 40% đến từ khai thác nước ngầm và 10% đến từ nước bề mặt (đặc biệt tại vùng núi non tây nam). Thủ đô Riyard được cung cấp nước khử muối bơm từ vịnh Ba Tư với khoảng cách 467 km. Nhờ thu nhập từ dầu mỏ, nước được cung cấp gần như miễn phí. Mặc dù chất lượng dịch vụ được cải thiện song vẫn còn thấp, chẳng hạn tại Riyadh chỉ có nước một lần trong mỗi 2,5 ngày vào năm 2011, còn tại Jeddah chỉ có nước 9 ngày một lần.",
+    "qas": [
+      {
+        "id": "0045-0042-0001",
+        "question": "Để đáp ứng nhu cầu sử dụng nước cho người dân, những phương pháp nào đã được chính phủ Ả Rập Xê Út áp dụng?",
+        "answers": [
+          {
+            "text": "khử muối nước biển, cung cấp nước, hệ thống thoát nước và xử lý nước",
+            "answer_start": 36
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0045-0042-0002",
+        "question": "Khoảng một nửa lượng nước uống được sản xuất từ nguồn nước như thế nào?",
+        "answers": [
+          {
+            "text": "nước khử muối",
+            "answer_start": 256
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0045-0042-0003",
+        "question": "Khu vực nào có thế mạnh là nguồn cung cấp nước bề mặt để sản xuất nước uống?",
+        "answers": [
+          {
+            "text": "vùng núi non tây nam",
+            "answer_start": 342
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0045-0042-0004",
+        "question": "Nhờ đâu mà người dân Ả Rập Xê Út được sử dụng nước hầu như miễn phí?",
+        "answers": [
+          {
+            "text": "Nhờ thu nhập từ dầu mỏ",
+            "answer_start": 449
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0045-0042-0005",
+        "question": "Lượng nước sinh hoạt được cung cấp đến Jeddah theo chu kì nào?",
+        "answers": [
+          {
+            "text": "9 ngày một lần",
+            "answer_start": 671
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0045-0042-0006",
+        "question": "Để đáp ứng nhu cầu sử dụng nước cho chính phủ Ả Rập Xê Út, những phương pháp nào đã được người dân áp dụng?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0045-0042-0007",
+        "question": "Nhờ đâu mà người dân Ả Rập Xê Út được sử dụng dầu mỏ hầu như miễn phí?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0045-0042-0008",
+        "question": "Lượng nước sinh hoạt được cung cấp đến Ả rập Xê Út theo chu kì nào?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.742882527281603,
+    "wer": 0.23717948717948717,
+    "candidates": [
+      {
+        "context_id": "0045-0042",
+        "similarity": 0.742882527281603,
+        "wer": 0.23717948717948717
+      },
+      {
+        "context_id": "0012-0001",
+        "similarity": 0.14675029571386072,
+        "wer": 1.346774193548387
+      },
+      {
+        "context_id": "0045-0041",
+        "similarity": 0.1445172652574649,
+        "wer": 1.2446043165467626
+      },
+      {
+        "context_id": "0045-0038",
+        "similarity": 0.14442114301871817,
+        "wer": 1.2761194029850746
+      },
+      {
+        "context_id": "0127-0068",
+        "similarity": 0.1418957968192937,
+        "wer": 0.9458483754512635
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0ab47abd.mp3",
+    "transcription": "Cuba độc lập nhanh chóng phải đối mặt với những khó khăn do sự tranh giành bè phái và tình trạng tham nhũng trong giới trí thức lãnh đạo và sự lực của chính phủ trong việc giải quyết các vấn đề xã hội sâu sắc hậu quả của chế độ thực dân Tây Ban Nha năm 1906 sau cuộc bầu cử lựa chọn người kế tục Estradapalma gây nhiều tranh cãi một cuộc nổi dậy vũ trang bùng phát và Hoa Kỳ đã thực hiện quyền can thiệp của mình. Đất nước này được đặt dưới quyền kiểm soát của Mỹ và một vị thống đốc Charles Atworth Magul nhận trách nhiệm quản lý trong ba năm. Thời kỳ cầm quyền của Magul tại Cu Ba bị nhiều nhà sử học nước này coi là không thành công. Họ cho rằng tình trạng tham nhũng của chính quyền Magul còn trầm trọng hơn trước đó. Năm một nghìn chín trăm lẻ tám chính phủ tự quản được tái lập khi hồ sơ mic k keo gó mét được bầu làm tổng thống nhưng Hoa Kỳ vẫn giữ quyền giám sát các công việc của Cuba. Tuy nhiên, dù những cuộc phản đối bất tuân lệnh chính phủ vẫn diễn ra, chính phủ lập hiến vẫn tồn tại cho tới năm một nghìn chín trăm hai mươi lăm khi gồ sơ Me Trát Đô Ma Trát Đô I Mô Ra lét đã được bầu làm tổng thống, tạm ngưng hiệu lực của hiến pháp. Ma Trát Đô là một người Cu Ba theo đường lối quốc gia và chế độ của ông, sự ủng hộ rộng rãi của người dân trong nước dù Chính phủ vẫn thường sử dụng bạo lực đàn áp sự chỉ trích. Trong thời kỳ cầm quyền của ông người dân Cu Ba có quyền kiểm soát rộng rãi hơn với nền kinh tế của họ và các dự án phát triển quốc gia lớn được triển khai. Quyền lực của ông giảm sút sau cuộc Đại suy thoái khiến giá các mặt hàng xuất khẩu của Cu Ba giảm mạnh gây tình trạng nghèo đói khắp nước. Tháng Tám năm một nghìn chín trăm ba mươi ba, các nhóm trong Quân đội Cuba tổ chức một cuộc đảo chính hạ bệ Ma Trà Đô và đưa Carlos Manuel de Cess Pê Lét, con trai người sáng lập nhà nước Cuba, lên làm Tổng thống. Tuy nhiên, vào tháng Chín, một cuộc đảo chính thứ hai do Fulken, Cio Batista, lãnh đạo lật đổ Séc Pê Lét, dẫn tới sự hình thành chínhủ ra món Crow săn mác tìn thứ nhất. Chính phủ này chỉ tồn tại một trăm ngày, nhưng đã đặt những cơ sở cho những thay đổi tự do căn bản của xã hội Cuba và sự khước từ tu chính phủ Iraq.",
+    "context_id": "0119-0013",
+    "matched_context": "Cuba độc lập nhanh chóng phải đối mặt với những khó khăn do sự tranh giành bè phái và tình trạng tham nhũng trong giới trí thức lãnh đạo và sự lực của chính phủ trong việc giải quyết các vấn đề xã hội sâu sắc hậu quả của chế độ thực dân Tây Ban Nha. Năm 1906, sau cuộc bầu cử lựa chọn người kế tục Estrada Palma gây nhiều tranh cãi, một cuộc nổi dậy vũ trang bùng phát và Hoa Kỳ đã thực hiện quyền can thiệp của minh. Đất nước này được đặt dưới quyền kiểm soát của Mỹ và một vị Thống đốc, Charles Edward Magoon, nhận trách nhiệm quản lý trong ba năm. Thời kỳ cầm quyền của Magoon tại Cuba bị nhiều nhà sử học nước này coi là không thành công, họ cho rằng tình trạng tham nhũng của chính quyền Magoon còn trầm trọng hơn trước đó. Năm 1908 chính phủ tự quản được tái lập khi José Miguel Gómez được bầu làm tổng thống, nhưng Hoa Kỳ vẫn giữ quyền giám sát các công việc của Cuba. Tuy nhiên, dù những cuộc phản đối bất tuân lệnh chính phủ vẫn diễn ra, chính phủ lập hiến vẫn tồn tại cho tới năm 1925, khi Gerardo Machado y Morales, đã được bầu làm tổng thống, tạm ngưng hiệu lực của hiến pháp. Machado là một người Cuba theo đường lối quốc gia và chế độ của ông được sự ủng hộ rộng rãi của người dân trong nước dù chính phủ vẫn thường sử dụng bạo lực đàn áp sự chỉ trích. Trong thời kỳ cầm quyền của ông, người dân Cuba có quyền kiểm soát rộng rãi hơn với nền kinh tế của họ và các dự án phát triển quốc gia lớn được triển khai. Quyền lực của ông giảm sút sau cuộc Đại Suy thoái, khiến giá các mặt hàng xuất khẩu của Cuba giảm mạnh gây tình trạng nghèo đói khắp nước. Tháng 8 năm 1933, các nhóm trong quân đội Cuba tổ chức một cuộc đảo chính hạ bệ Machado và đưa Carlos Manuel de Céspedes, con trai người sáng lập nhà nước Cuba lên làm Tổng thống. Tuy nhiên, vào tháng 9 một cuộc đảo chính thứ hai do Fulgencio Batista lãnh đạo lật đổ Céspedes dẫn tới sự hình thành chính phủ Ramón Grau San Martín thứ nhất. Chính phủ này chỉ tồn tại 100 ngày nhưng đã đặt những cơ sở cho những thay đổi tự do căn bản của xã hội Cuba và sự khước từ Tu chính Platt.",
+    "qas": [
+      {
+        "id": "0119-0013-0001",
+        "question": "Sau năm 1906, ai là người được Hoa Kỳ giao cho nhiệm vụ quản lý Cuba?",
+        "answers": [
+          {
+            "text": "Charles Edward Magoon",
+            "answer_start": 489
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0119-0013-0002",
+        "question": "Vào năm nào thì chính phủ lập hiến tại Cuba không còn tồn tại?",
+        "answers": [
+          {
+            "text": "năm 1925",
+            "answer_start": 986
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0119-0013-0003",
+        "question": "Sau sự kiện nào thì Machado có sự suy giảm về quyền lực?",
+        "answers": [
+          {
+            "text": "cuộc Đại Suy thoái",
+            "answer_start": 1455
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0119-0013-0004",
+        "question": "Carlos Manuel de Céspedes là nhờ vào sự hỗ trợ của tổ chức nào?",
+        "answers": [
+          {
+            "text": "các nhóm trong quân đội Cuba",
+            "answer_start": 1581
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0119-0013-0005",
+        "question": "Thời gian tồn tại của chính phủ do Fulgencio Batista tạo ra là bao lâu?",
+        "answers": [
+          {
+            "text": "100 ngày",
+            "answer_start": 1929
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0119-0013-0006",
+        "question": "Sau năm 1906, ai là người được Cuba giao cho nhiệm vụ quản lý Hoa Kỳ?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0119-0013-0007",
+        "question": "Sau sự kiện nào thì Machado có quyền kiểm soát về quyền lực?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0119-0013-0008",
+        "question": "Carlos Manuel de Céspedes là nhờ vào sự giải cứu của tổ chức nào?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0119-0013-0009",
+        "question": "Thời gian tồn tại của chính phủ do Fulgencio tạo ra là bao lâu?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.7530234592013239,
+    "wer": 0.18764302059496568,
+    "candidates": [
+      {
+        "context_id": "0119-0013",
+        "similarity": 0.7530234592013239,
+        "wer": 0.18764302059496568
+      },
+      {
+        "context_id": "0119-0014",
+        "similarity": 0.21622557833181183,
+        "wer": 2.269035532994924
+      },
+      {
+        "context_id": "0119-0007",
+        "similarity": 0.20677824000005313,
+        "wer": 2.204878048780488
+      },
+      {
+        "context_id": "0119-0038",
+        "similarity": 0.19869929162252467,
+        "wer": 2.1990291262135924
+      },
+      {
+        "context_id": "0119-0012",
+        "similarity": 0.1947765694291237,
+        "wer": 2.33160621761658
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0abd1058.mp3",
+    "transcription": "Thành phố Hồ Chí Minh có độ mười độ mười mười độ ba mươi tám bắc và một trăm linh sáu độ hai mươi hai một trăm linh sáu độ năm mươi bốn đông phía bắc giáp tỉnh Bình Dương, tây bắc giáp tỉnh Tây Ninh, đông và đông bắc giáp tỉnh Đồng Nai, đông nam giáp tỉnh Bà Rịa Vũng Tàu, tây và tây nam giáp tỉnh Long An và Tiền Giang nằm ở miền nam Việt Nam thành phố Hồ Chí Minh cách Hà Nội một nghìn bảy trăm ba mươi ki lô mét theo đường bộ trung tâm thành phố cách bờ biển đông năm mươi ki lô mét theo đường chim bay, với vị trí tâm điểm của khu vực Đông Nam Á, thành phố Hồ Chí Minh là một đầu mối giao thông quan trọng về cả đường bộ, đường và đường không nối liền các tỉnh trong vùng và còn là một cửa ngõ quốc tế.",
+    "context_id": "0027-0028",
+    "matched_context": "Thành phố Hồ Chí Minh có toạ độ 10°10' – 10°38' Bắc và 106°22' – 106°54' Đông, phía Bắc giáp tỉnh Bình Dương, Tây Bắc giáp tỉnh Tây Ninh, Đông và Đông Bắc giáp tỉnh Đồng Nai, Đông Nam giáp tỉnh Bà Rịa - Vũng Tàu, Tây và Tây Nam giáp tỉnh Long An và Tiền Giang. Nằm ở miền Nam Việt Nam, Thành phố Hồ Chí Minh cách Hà Nội 1.730 km theo đường bộ, trung tâm thành phố cách bờ biển Đông 50 km theo đường chim bay. Với vị trí tâm điểm của khu vực Đông Nam Á, Thành phố Hồ Chí Minh là một đầu mối giao thông quan trọng về cả đường bộ, đường thủy và đường không, nối liền các tỉnh trong vùng và còn là một cửa ngõ quốc tế.",
+    "qas": [
+      {
+        "id": "0027-0028-0001",
+        "question": "Thành phố Hồ Chí Minh có vị trí địa lý như thế nào?",
+        "answers": [
+          {
+            "text": "phía Bắc giáp tỉnh Bình Dương, Tây Bắc giáp tỉnh Tây Ninh, Đông và Đông Bắc giáp tỉnh Đồng Nai, Đông Nam giáp tỉnh Bà Rịa - Vũng Tàu, Tây và Tây Nam giáp tỉnh Long An và Tiền Giang",
+            "answer_start": 79
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0027-0028-0002",
+        "question": "Tọa độ của thành phố Hồ Chí Minh là bao nhiêu?",
+        "answers": [
+          {
+            "text": "10°10' – 10°38' Bắc và 106°22' – 106°54' Đông",
+            "answer_start": 32
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0027-0028-0003",
+        "question": "Với vị trị địa lý thuận lợi đã đem lại lợi ích cho thành phố như thế nào?",
+        "answers": [
+          {
+            "text": "Thành phố Hồ Chí Minh là một đầu mối giao thông quan trọng về cả đường bộ, đường thủy và đường không, nối liền các tỉnh trong vùng và còn là một cửa ngõ quốc tế",
+            "answer_start": 453
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0027-0028-0004",
+        "question": "Với vị trị địa lý thuận lợi đã đem lại lợi ích cho Tiền Giang như thế nào?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.6874970293855749,
+    "wer": 0.2805755395683453,
+    "candidates": [
+      {
+        "context_id": "0027-0028",
+        "similarity": 0.6874970293855749,
+        "wer": 0.2805755395683453
+      },
+      {
+        "context_id": "0069-0008",
+        "similarity": 0.215875934718243,
+        "wer": 0.9330143540669856
+      },
+      {
+        "context_id": "0027-0002",
+        "similarity": 0.20075310918817635,
+        "wer": 0.8643410852713178
+      },
+      {
+        "context_id": "0094-0001",
+        "similarity": 0.19158222976425707,
+        "wer": 0.9217877094972067
+      },
+      {
+        "context_id": "0109-0031",
+        "similarity": 0.19083739319116788,
+        "wer": 0.9649122807017544
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0aed5ce0.mp3",
+    "transcription": "Khoảng năm một trăm hai mươi lăm trước công nguyên, phần miền nam của Gaulê bị người La Mã chinh phục. Họ gọi khu vực này là Provincial A, tỉnh của chúng ta, và theo thời gian tiến hóa thành tên gọi Provals trong tiếng Pháp, Julius Caesar chinh phục phần còn lại của Gaulê và đánh bại cuộc khởi nghĩa của tù trưởng Ga Lê vắc xin Kê Tô Úc vào năm năm mươi hai trước công nguyên. Gaulê bị Augustus phân chia thành các tỉnh của La Mã, nhiều thành thị được thành lập trong giai đoạn Goliath La Mã như Lurdovê, Képnum này là Lyon được nhìn nhận là thủ phủ của người Goliath. Các thành thị này được xây dựng theo phong cách La Mã truyền thống, có một quảng trường, một nhà hát, một đấu trường, một đài vòng và các phòng tắm nóng. Người Ga La lại với những người định cư La Mã và cuối cùng tiếp nhận văn hóa và ngôn ngữ của người La Mã, tiếng Latin, tiếng Pháp, tiến hóa từ đó thuyết đạt thần La Mã hợp nhất với thuyết dị giáo Gau Loa thành thuyết hổ lốn tương tự.",
+    "context_id": "0126-0008",
+    "matched_context": "Khoảng năm 125 TCN, phần miền nam của Gaule bị người La Mã chinh phục, họ gọi khu vực này là Provincia Nostra (\"tỉnh của chúng ta\"), và theo thời gian tiến hoá thành tên gọi Provence trong tiếng Pháp. Julius Caesar chinh phục phần còn lại của Gaule và đánh bại cuộc khởi nghĩa của tù trưởng Gaulois Vercingétorix vào năm 52 TCN. Gaule bị Augustus phân chia thành các tỉnh của La Mã. Nhiều thành thị được thành lập trong giai đoạn Gaulois-La Mã, như Lugdunum (nay là Lyon) được nhìn nhận là thủ phủ của người Gaulois. Các thành thị này được xây dựng theo phong cách La Mã truyền thống, có một quảng trường, một nhà hát, một đấu trường, một đài vòng và các phòng tắm nóng. Người Gaulois lai với những người định cư La Mã và cuối cùng tiếp nhận văn hoá và ngôn ngữ của người La Mã (tiếng La Tinh, tiếng Pháp tiến hoá từ đó). Thuyết đa thần La Mã hợp nhất với thuyết dị giáo Gaulois thành thuyết hổ lốn tương tự.",
+    "qas": [
+      {
+        "id": "0126-0008-0001",
+        "question": "Miền nam của Gaule đã bị ai chiếm đóng vào khoảng năm 125 TCN?",
+        "answers": [
+          {
+            "text": "người La Mã",
+            "answer_start": 47
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0008-0002",
+        "question": "Cuộc khởi nghĩa của Gaulois Vercingétorix bị ai đánh bại vào năm 52 TCN?",
+        "answers": [
+          {
+            "text": "Julius Caesa",
+            "answer_start": 201
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0008-0003",
+        "question": "Thuyết hổ lốn tương tự được cấu thành từ thuyết đa thần La Mã và thuyết nào?",
+        "answers": [
+          {
+            "text": "thuyết dị giáo Gaulois",
+            "answer_start": 856
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0008-0004",
+        "question": "Các thành thị Gaulois-La Mã được xây dựng theo phong cách La Mã truyền thống bao gồm những thành phần nào?",
+        "answers": [
+          {
+            "text": "một quảng trường, một nhà hát, một đấu trường, một đài vòng và các phòng tắm nóng",
+            "answer_start": 588
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0008-0005",
+        "question": "Tiếng Pháp tiến hoá và phát triển từ sự kiện nào?",
+        "answers": [
+          {
+            "text": "Người Gaulois lai với những người định cư La Mã và cuối cùng tiếp nhận văn hoá và ngôn ngữ của người La Mã",
+            "answer_start": 671
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0008-0006",
+        "question": "Miền nam của Gaule đã bị ai chiếm đóng vào trước năm 125 TCN?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0126-0008-0007",
+        "question": "Cuộc khởi nghĩa của ai bị Gaulois Vercingétorix đánh bại vào năm 52 TCN?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.6752600119693571,
+    "wer": 0.23369565217391305,
+    "candidates": [
+      {
+        "context_id": "0126-0008",
+        "similarity": 0.6752600119693571,
+        "wer": 0.23369565217391305
+      },
+      {
+        "context_id": "0107-0012",
+        "similarity": 0.17245826188402008,
+        "wer": 0.9230769230769231
+      },
+      {
+        "context_id": "0107-0005",
+        "similarity": 0.16278897382359214,
+        "wer": 1.0103626943005182
+      },
+      {
+        "context_id": "0075-0029",
+        "similarity": 0.1560549691701417,
+        "wer": 0.9351145038167938
+      },
+      {
+        "context_id": "0057-0007",
+        "similarity": 0.15594639369935911,
+        "wer": 1.015625
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0b0eb89d.mp3",
+    "transcription": "Sang thế kỷ hai mươi kiến trúc sư người Sĩ Pháp Lê Cóp Bu Si Ê thiết kế một số công trình tại Pháp gần đây hơn các kiến trúc sư Pháp kết hợp các phong cách kiến trúc hiện đại lẫn cổ điển Kim tự tháp kính lu vơ là một minh cho kiến trúc hiện đại được đặt thêm vào một nhà cổ hơn các nhà khó khăn nhất trong việc tích hợp trong các thành phố Pháp là những nhà chọc trời do có thể thấy chúng từ xa chẳng hạn từ năm một nghìn chín trăm bảy mươi bảy các nhà mới tại Pa Ri phải có chiều cao dưới ba mươi bảy mét. Khu tài chính lớn nhất của Pháp là La Đê Phót nằm ngoài giới hành chính của Pa Ri tại đây có nhiều nhà chọc trời các công trình lớn khắc gặp thách thức để tích hợp với môi trường xung quanh là các cây cầu lớn chẳng hạn như cầu cạn Mi Lao một số kiến trúc sư hiện đại nổi tiếng của Pháp là Gionu Ven, Du Mê Rô, Cri Si An đờ pao, Giang Paóc hay Po An đờ rô.",
+    "context_id": "0126-0088",
+    "matched_context": "Sang thế kỷ XX, kiến trúc sư người Thuỵ Sĩ-Pháp Le Corbusier thiết kế một số công trình tại Pháp. Gần đây hơn, các kiến trúc sư Pháp kết hợp các phong cách kiến trúc hiện đại lẫn cổ điển. Kim tự tháp kính Louvre là một minh hoạ cho kiến trúc hiện đại được đặt thêm vào một toà nhà cổ hơn. Các toà nhà khó khăn nhất trong việc tích hợp trong các thành phố Pháp là những toà nhà chọc trời, do có thể thấy chúng từ xa. Chẳng hạn, từ năm 1977 các toà nhà mới tại Paris phải có chiều cao dưới 37 m. Khu tài chính lớn nhất của Pháp là La Défense nằm ngoài giới hành chính của Paris, tại đây có nhiều toà nhà chọc trời. Các công trình lớn khác gặp thách thức để tích hợp với môi trường xung quanh là các cây cầu lớn; chẳng hạn như Cầu cạn Millau. Một số kiến trúc sư hiện đại nổi tiếng của Pháp là Jean Nouvel, Dominique Perrault, Christian de Portzamparc hay Paul Andreu.",
+    "qas": [
+      {
+        "id": "0126-0088-0001",
+        "question": "Theo qui định từ năm 1977, các toà nhà mới tại Paris có chiều cao như thế nào?",
+        "answers": [
+          {
+            "text": "chiều cao dưới 37 m",
+            "answer_start": 473
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0088-0002",
+        "question": "Nơi nào của Paris có nhiều toà nhà chọc trời?",
+        "answers": [
+          {
+            "text": "La Défense",
+            "answer_start": 529
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0088-0003",
+        "question": "Hãy kể tên những kiến trúc sư hiện đại nổi tiếng của Pháp?",
+        "answers": [
+          {
+            "text": "Jean Nouvel, Dominique Perrault, Christian de Portzamparc hay Paul Andreu",
+            "answer_start": 791
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0088-0004",
+        "question": "Kiến trúc sư Le Corbusier thuộc người gì?",
+        "answers": [
+          {
+            "text": "người Thuỵ Sĩ-Pháp",
+            "answer_start": 29
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0126-0088-0005",
+        "question": "Theo qui định từ năm 1977, các toà nhà cũ tại Paris có chiều cao như thế nào?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0126-0088-0006",
+        "question": "Nơi nào của Paris có nhiều toà nhà thấp tầng?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0126-0088-0007",
+        "question": "Kiến trúc sư Paul Andreu thuộc người gì?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.6185596139892423,
+    "wer": 0.2826086956521739,
+    "candidates": [
+      {
+        "context_id": "0126-0088",
+        "similarity": 0.6185596139892423,
+        "wer": 0.2826086956521739
+      },
+      {
+        "context_id": "0126-0087",
+        "similarity": 0.16009018564794625,
+        "wer": 0.9853658536585366
+      },
+      {
+        "context_id": "0022-0038",
+        "similarity": 0.15535531258846538,
+        "wer": 1.6666666666666667
+      },
+      {
+        "context_id": "0126-0086",
+        "similarity": 0.15514532816923665,
+        "wer": 1.08
+      },
+      {
+        "context_id": "0049-0023",
+        "similarity": 0.1527866421092159,
+        "wer": 1.5726495726495726
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0b4b5633.mp3",
+    "transcription": "Quân Trung Quốc đối mặt với quân đội Hoa Kỳ ngày hai mươi lăm tháng mười năm một nghìn chín trăm năm mươi với hai trăm bảy mươi nghìn quân dưới quyền tư lệnh của tướng bành Đức Hoài khiến cho Liên Hiệp Quốc rất ngạc nhiên vì không lường trước được mức độ quân số đông đảo đến như vậy lại đột ngột xuất hiện. Tuy nhiên, sau những vụ đụng độ ban đầu, các lực lượng Trung Quốc rút lui vào vùng núi. Các nhà lãnh đạo Liên Hiệp Quốc coi sự rút lui của Trung Quốc như là một dấu hiệu yếu thế và đánh giá sai lầm trầm trọng khả năng tác chiến của Trung Quốc thế nên các lực lượng Liên Hiệp Quốc tiếp tục tiến công về sông áp lục không đếm xỉa gì đến những lời cảnh cáo của Bắc Kinh.",
+    "context_id": "0092-0036",
+    "matched_context": "Quân Trung Quốc đối mặt với quân đội Hoa Kỳ ngày 25 tháng 10 năm 1950 với 270.000 quân dưới quyền tư lệnh của tướng Bành Đức Hoài khiến cho Liên Hiệp Quốc rất ngạc nhiên vì không lường trước được mức độ quân số đông đảo đến như vậy lại đột ngột xuất hiện. Tuy nhiên, sau những vụ đụng độ ban đầu, các lực lượng Trung Quốc rút lui vào vùng núi. Các nhà lãnh đạo Liên Hiệp Quốc coi sự rút lui của Trung Quốc như là một dấu hiệu yếu thế và đánh giá sai lầm trầm trọng khả năng tác chiến của Trung Quốc. Thế nên các lực lượng Liên hiệp quốc tiếp tục tiến công về sông Áp Lục không đếm xỉa gì đến những lời cảnh cáo của Bắc Kinh.",
+    "qas": [
+      {
+        "id": "0092-0036-0001",
+        "question": "Quân đội Mỹ chạm chán Trung Quốc vào thời gian nào?",
+        "answers": [
+          {
+            "text": "ngày 25 tháng 10 năm 1950",
+            "answer_start": 44
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0092-0036-0002",
+        "question": "Vì sao Liên Hợp quốc bất ngờ trước đội quân Trung Quốc dưới sự chỉ huy của Bành Đức Hoài?",
+        "answers": [
+          {
+            "text": "vì không lường trước được mức độ quân số đông đảo đến như vậy lại đột ngột xuất hiện",
+            "answer_start": 170
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0092-0036-0003",
+        "question": "Trong trận chiến năm 1950 với Mỹ, Trung Quốc huy động lực lượng bao nhiêu binh lính?",
+        "answers": [
+          {
+            "text": "270.000",
+            "answer_start": 74
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0092-0036-0004",
+        "question": "Liên Hợp quốc có nhận định gì về việc Trung Quốc rút quân về vùng núi?",
+        "answers": [
+          {
+            "text": "một dấu hiệu yếu thế và đánh giá sai lầm trầm trọng khả năng tác chiến của Trung Quốc",
+            "answer_start": 413
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0092-0036-0005",
+        "question": "Bác bỏ các lời cảnh báo của Bắc Kinh, Liên Hợp quốc tiến đánh khu vực nào?",
+        "answers": [
+          {
+            "text": "sông Áp Lục",
+            "answer_start": 559
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0092-0036-0006",
+        "question": "Quân đội Mỹ chạm chán Hoa Kỳ vào thời gian nào?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0092-0036-0007",
+        "question": "Trong trận chiến năm 1950 với Mỹ, Trung Quốc huy động lực lượng bao nhiêu lãnh đạo?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0092-0036-0008",
+        "question": "Bác bỏ các lời cảnh báo của Liên hợp quốc, Bắc Kinh quốc tiến đánh khu vực nào?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.8657523053752733,
+    "wer": 0.10869565217391304,
+    "candidates": [
+      {
+        "context_id": "0092-0036",
+        "similarity": 0.8657523053752733,
+        "wer": 0.10869565217391304
+      },
+      {
+        "context_id": "0092-0045",
+        "similarity": 0.20706928534440605,
+        "wer": 0.9746835443037974
+      },
+      {
+        "context_id": "0092-0044",
+        "similarity": 0.19247489716791902,
+        "wer": 0.9803921568627451
+      },
+      {
+        "context_id": "0092-0035",
+        "similarity": 0.18391721075543227,
+        "wer": 0.9322493224932249
+      },
+      {
+        "context_id": "0092-0033",
+        "similarity": 0.18008207977657675,
+        "wer": 0.9580838323353293
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0b4d5c23.mp3",
+    "transcription": "Giá trị ước tính tổng tài sản của Trump biến động cùng với các định giá bất động sản vào năm hai nghìn không trăm mười lăm Forbes ấn định giá trị bốn tỷ đô la Mỹ. Trong khi đó, Bloomberg Billioner Index đã xem xét kỹ lưỡng hồ sơ nộp cho Hội đồng bầu cử Liên bang của Trump ước tính tổng tài sản hai phẩy chín tỷ đô la Mỹ ngày mười sáu tháng sáu năm hai nghìn không trăm mười lăm ngay trước khi Trump tuyên bố tranh cử trong công bố với báo giới một bản báo cáo tài chính dài một trang từ một công ty kiểm toán lớn, một trong số những công ty uy tín nhất liệt kê tổng tài sản tấn bảy trăm ba mươi bảy triệu năm trăm bốn mươi nghìn đô la Mỹ. Tôi thật sự giàu, Trump nói Forbes bình luận rằng con số gần tỉ đô la Mỹ là một trăm phần trăm cường điệu tháng bảy năm hai nghìn không trăm mười lăm. Ủy ban điều phối bầu cử Liên bang công bố số liệu mới về tài sản của Trump và tình hình tài chính khi ông trở thành ứng viên tổng thống của đảng Cộng, trong đó nói rằng tài sản của ông có giá trị trên một phẩy bốn tỷ đô la Mỹ, bao gồm ít nhất bảy mươi triệu đô la Mỹ từ cố phiếu và một khoản nợ ít nhất là hai trăm sáu mươi lăm triệu đô la Mỹ.",
+    "context_id": "0087-0019",
+    "matched_context": "Giá trị ước tính tổng tài sản của Trump biến động cùng với các định giá bất động sản: vào năm 2015, Forbes ấn định giá trị 4 tỉ USD, trong khi đó Bloomberg Billionaires Index (đã xem xét kĩ lưỡng hồ sơ nộp cho Hội đồng Bầu cử Liên bang của Trump) ước tính tổng tài sản 2,9 tỉ USD. Ngày 16 tháng 6 năm 2015, ngay trước khi Trump tuyên bố tranh cử, Trump công bố với báo giới một bản báo cáo tài chính dài một trang \"từ một công ty kiểm toán lớn – một trong số những công ty uy tín nhất\" liệt kê tổng tài sản 8.737.540.000 USD. \"Tôi thật sự giàu\", Trump nói. Forbes bình luận rằng con số gần 9 tỉ USD là \"100%\" cường điệu. Tháng 7 năm 2015, ủy ban điều phối bầu cử Liên bang công bố số liệu mới về tài sản của Trump và tình hình tài chính khi ông trở thành ứng viên tổng thống của Đảng Cộng hòa, trong đó nói rằng tài sản của ông có giá trị trên 1,4 tỉ USD, bao gồm ít nhất 70 triệu USD từ cố phiếu, và một khoản nợ ít nhất là 265 triệu USD.",
+    "qas": [
+      {
+        "id": "0087-0019-0001",
+        "question": "Forbes công bố giá trị tài sản của Trump là 4 tỉ USD tuy nhiên theo sự kiểm tra của Bloomberg Billionaires Index thì số tiền đó là bao nhiêu?",
+        "answers": [
+          {
+            "text": "2,9 tỉ USD",
+            "answer_start": 269
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0087-0019-0002",
+        "question": "Khi Trump ra tranh cử năm 2015 thì ông đã đưa ra bản số liệu về tài chính là bao nhiêu?",
+        "answers": [
+          {
+            "text": "8.737.540.000 USD",
+            "answer_start": 507
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0087-0019-0003",
+        "question": "Với tổng giá trị ông liệt kê ra ông đã nói câu gì?",
+        "answers": [
+          {
+            "text": "Tôi thật sự giàu",
+            "answer_start": 527
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0087-0019-0004",
+        "question": "Theo Forbes, con số tài sản mà Trump đã đưa ra trước công chúng bị coi là gì?",
+        "answers": [
+          {
+            "text": "\"100%\" cường điệu",
+            "answer_start": 602
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0087-0019-0005",
+        "question": "Khoản nợ của Donald Trump là bao nhiêu khi ông là ứng viên tổng thống?",
+        "answers": [
+          {
+            "text": "ít nhất là 265 triệu USD",
+            "answer_start": 914
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0087-0019-0006",
+        "question": "Khoản nợ của Donald Trump là bao nhiêu khi ông là tổng thống của Hoa Kỳ năm 2016?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.633800099154374,
+    "wer": 0.38207547169811323,
+    "candidates": [
+      {
+        "context_id": "0087-0019",
+        "similarity": 0.633800099154374,
+        "wer": 0.38207547169811323
+      },
+      {
+        "context_id": "0087-0018",
+        "similarity": 0.22707787790278797,
+        "wer": 1.7769230769230768
+      },
+      {
+        "context_id": "0087-0020",
+        "similarity": 0.21597796845309994,
+        "wer": 0.9810606060606061
+      },
+      {
+        "context_id": "0087-0017",
+        "similarity": 0.18855704100741302,
+        "wer": 1.2019704433497538
+      },
+      {
+        "context_id": "0117-0004",
+        "similarity": 0.15213332800417456,
+        "wer": 2.0517241379310347
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0b53ae7b.mp3",
+    "transcription": "Như một đặc điểm thường thấy của mạng điện thoại trong hầu hết các trường hợp quay số trực tiếp để gọi đường dài không thể thực hiện dù mã vùng được cấp cho mọi thành phố và thị trấn lớn họ chỉ sử dụng các tổng đài viễn thông quốc tế tự động thay vào đó mỗi địa điểm có danh sách mã gọi riêng của mình với các mã ngắn hơn cho các cuộc gọi nội địa và mã dài hơn cho gọi đường dài điều này bởi các cuộc gọi được chuyển theo mãng nhánh sau sự thống nhất Đức, mạng sẵn có hầu như bị thay thế và các mã vùng và cách quay được tiêu chuẩn hóa.",
+    "context_id": "0010-0026",
+    "matched_context": "Như một đặc điểm thường thấy của mạng điện thoại trong hầu hết các trường hợp, quay số trực tiếp để gọi đường dài không thể thực hiện. Dù mã vùng được cấp cho mọi thành phố và thị trấn lớn, họ chỉ sử dụng các tổng đài viễn thông quốc tế tự động. Thay vào đó, mỗi địa điểm có danh sách mã gọi riêng của mình - với các mã ngắn hơn cho các cuộc gọi nội địa, và mã dài hơn cho gọi đường dài. Điều này bởi các cuộc gọi được chuyển theo mạng nhánh. Sau sự thống nhất nước Đức, mạng sẵn có hầu như bị thay thế, và các mã vùng và cách quay được tiêu chuẩn hoá.",
+    "qas": [
+      {
+        "id": "0010-0026-0001",
+        "question": "Trong mạng điện thoại thì đặc điểm nào sẽ xảy ra ở đa số các trường hợp?",
+        "answers": [
+          {
+            "text": "quay số trực tiếp để gọi đường dài không thể thực hiện",
+            "answer_start": 79
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0010-0026-0002",
+        "question": "Trong lĩnh vực viễn thông thì có sự thay đổi nào sau khi nước Đức thống nhất?",
+        "answers": [
+          {
+            "text": "mạng sẵn có hầu như bị thay thế, và các mã vùng và cách quay được tiêu chuẩn hoá",
+            "answer_start": 471
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0010-0026-0003",
+        "question": "Đối với các cuộc gọi đường dài sẽ có các mã gọi như thế nào?",
+        "answers": [
+          {
+            "text": "mã dài",
+            "answer_start": 358
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0010-0026-0004",
+        "question": "Mã ngắn được sử dụng cho các cuộc gọi nào?",
+        "answers": [
+          {
+            "text": "các cuộc gọi nội địa",
+            "answer_start": 333
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0010-0026-0005",
+        "question": "Đối với các cuộc gọi tiêu chuẩn sẽ có các mã gọi như thế nào?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.9706277121452369,
+    "wer": 0.024390243902439025,
+    "candidates": [
+      {
+        "context_id": "0010-0026",
+        "similarity": 0.9706277121452369,
+        "wer": 0.024390243902439025
+      },
+      {
+        "context_id": "0107-0043",
+        "similarity": 0.1334370900249243,
+        "wer": 0.9466019417475728
+      },
+      {
+        "context_id": "0004-0004",
+        "similarity": 0.1298591002357877,
+        "wer": 1.0
+      },
+      {
+        "context_id": "0010-0025",
+        "similarity": 0.1243361466358988,
+        "wer": 0.9523809523809523
+      },
+      {
+        "context_id": "0031-0001",
+        "similarity": 0.12122970237424388,
+        "wer": 0.937799043062201
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0b56afea.mp3",
+    "transcription": "Theo Kenneth N. Jersey và Jeffrey Merrick, những bài hát, bài thơ và tuyên ngôn đương thời mô tả ông là bậc thầy giáo dân, không vết và nhà cung cấp nhân từ. Những thất bại của Louis là do sự thiếu kinh nghiệm và sự thao túng từ những người khác. Jesse và Merrick lập luận năm 1994 rằng những rắc rối của nhà vua liên quan nhau một cách chặt chẽ và người dân đổ lỗi và chê cười lối sống phóng đãng của ông. Vua không mấy quan tâm chiếc nạn đói và cuộc khủng hoảng trong nước, dân chúng căm thù và phản đối nhà vua. Cuối cùng họ ăn mừng khi vua chết nên quân chủ vẫn tồn tại một thời gian nữa. Nhưng Louis XV đã để lại cho người kế vị di sản là sự bất mãn từ chính thần dân.",
+    "context_id": "0055-0080",
+    "matched_context": "Theo Kenneth N. Jassie và Jeffrey Merrick, những bài hát, bài thơ và tuyên ngôn đương thời mô tả ông là \"bậc thầy,\" \"Giáo dân,\" không tùy vết và nhà cung cấp nhân từ. Những thất bại của Louis là do sự thiếu kinh nghiệm và sự thao túng từ những người khác. Jassie và Merrick lập luận năm 1994 rằng những rắc rối của nhà vua liên quan nhau một cách chặt chẽ, và người dân đổ lỗi và chê cười lối sống phóng đãng của ông. Vua không mấy quan tâm trước nạn đói và cuộc khủng hoảng trong nước. Dân chúng căm thù và phản đối nhà vua, cuối cùng họ ăn mừng khi vua chết. Nền quân chủ vẫn tồn tại — một thời gian nữa — nhưng Louis XV đã để lại cho người kế vị di sản là sự bất mãn từ chính thần dân.",
+    "qas": [
+      {
+        "id": "0055-0080-0001",
+        "question": "Lý do dẫn đến sự thất bại trong lúc trị vị của vua Louis XV là gì?",
+        "answers": [
+          {
+            "text": "sự thiếu kinh nghiệm và sự thao túng từ những người khác",
+            "answer_start": 198
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0055-0080-0002",
+        "question": "Điều gì của vua Louis XV đã bị quần chúng nhân dân chê cười?",
+        "answers": [
+          {
+            "text": "lối sống phóng đãng của ông",
+            "answer_start": 389
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0055-0080-0003",
+        "question": "Khi vua Louis XV qua đời thì phản ứng của người dân là gì?",
+        "answers": [
+          {
+            "text": "ăn mừng",
+            "answer_start": 539
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0055-0080-0004",
+        "question": "Người kế vị của Louis XV đã nhận được gì từ người trị vì trước mình?",
+        "answers": [
+          {
+            "text": "sự bất mãn từ chính thần dân",
+            "answer_start": 659
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0055-0080-0005",
+        "question": "Sự tồn tại về mối quan hệ giữa các rắc rối của Louis XV đã được ai tìm ra?",
+        "answers": [
+          {
+            "text": "Jassie và Merrick",
+            "answer_start": 256
+          }
+        ],
+        "is_impossible": false
+      }
+    ],
+    "similarity": 0.9074913583557829,
+    "wer": 0.03355704697986577,
+    "candidates": [
+      {
+        "context_id": "0055-0080",
+        "similarity": 0.9074913583557829,
+        "wer": 0.03355704697986577
+      },
+      {
+        "context_id": "0055-0081",
+        "similarity": 0.1559162896913241,
+        "wer": 0.935064935064935
+      },
+      {
+        "context_id": "0039-0001",
+        "similarity": 0.14450867972749332,
+        "wer": 1.0902255639097744
+      },
+      {
+        "context_id": "0039-0016",
+        "similarity": 0.13872129307093065,
+        "wer": 0.9192825112107623
+      },
+      {
+        "context_id": "0055-0082",
+        "similarity": 0.1347744460657556,
+        "wer": 0.9931506849315068
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0b69a23e.mp3",
+    "transcription": "Các bản vẽ của Galileo Galileo cho thấy ông là người đầu tiên quan sát sao Hải Vương qua kính viễn vọng vào ngày tháng tháng năm và một lần nữa vào ngày tháng một năm một nghìn sáu trăm mười ba trong cả hai lần Galileo đã nhầm sao Hải Vương là một ngôi sao cố định khi nó xuất hiện ở vị trí giao hội rất gần với sao Mộc trên bầu trời vì vậy mà Galileo không được công nhận là người phát hiện ra sao Hải Vương trong lúc quan sát đầu tiên của ông tháng Mười hai năm một nghìn sáu trăm mười hai sao Hải Vương gần như đứng yên trên nền trời bởi vì nó vừa mới di chuyển nghịch hành biểu kiến vào ngày đó chuyển động ngược biểu kiến xuất hiện khi Trái đất vượt lên trước hành tinh vòng ngoài trên quỹ đạo quay quanh Mặt trời do sao Hải Vương vừa mới bắt đầu chuyển động nghịch hành chuyển động này quá nhỏ để có thể nhận ra qua kính thiên văn nhỏ của Ga li le ô tháng bảy năm hai nghìn không trăm linh chín nhà vật lý đe Vít. Mê sần ở Đại học Meo bần nêu ra bằng chứng mới cho thấy Ga li le ô có lẽ đã nhận ra ngôi sao mà ông quan sát có vẻ đã dịch chuyển so với những ngôi sao cố định.",
+    "context_id": "0102-0005",
+    "matched_context": "Các bản vẽ của Galileo Galilei cho thấy ông là người đầu tiên quan sát Sao Hải Vương qua kính viễn vọng vào ngày 28 tháng 12 năm 1612, và một lần nữa vào ngày 27 tháng 1 năm 1613. Trong cả hai lần, Galileo đã nhầm Sao Hải Vương là một ngôi sao cố định khi nó xuất hiện ở vị trí giao hội rất gần với Sao Mộc trên bầu trời. Vì vậy mà Galileo không được công nhận là người phát hiện ra Sao Hải Vương. Trong lúc quan sát đầu tiên của ông tháng 12 năm 1612, Sao Hải Vương gần như đứng yên trên nền trời bởi vì nó vừa mới di chuyển nghịch hành biểu kiến vào ngày đó. Chuyển động ngược biểu kiến xuất hiện khi Trái Đất vượt lên trước hành tinh vòng ngoài trên quỹ đạo quay quanh Mặt Trời. Do Sao Hải Vương vừa mới bắt đầu chuyển động nghịch hành, chuyển động này quá nhỏ để có thể nhận ra qua kính thiên văn nhỏ của Galileo. Tháng 7 năm 2009, nhà vật lý David Jamieson ở Đại học Melbourne nêu ra bằng chứng mới cho thấy Galileo có lẽ đã nhận ra \"ngôi sao\" mà ông quan sát có vẻ đã dịch chuyển so với những ngôi sao cố định.",
+    "qas": [
+      {
+        "id": "0102-0005-0001",
+        "question": "Galileo Galilei quan sát Sao Hải Vương bao nhiêu lần?",
+        "answers": [
+          {
+            "text": "hai lần",
+            "answer_start": 189
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0005-0002",
+        "question": "Vì sao Galileo Galilei không được xem là người đầu tiên tìm ra Sao Hải Vương?",
+        "answers": [
+          {
+            "text": "nhầm Sao Hải Vương là một ngôi sao cố định khi nó xuất hiện ở vị trí giao hội rất gần với Sao Mộc trên bầu trời",
+            "answer_start": 209
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0005-0003",
+        "question": "Ngày nào Sao Hải Vương gần như đứng yên trên trời vì nó vừa mới di chuyển nghịch hành biểu kiến?",
+        "answers": [
+          {
+            "text": "28 tháng 12 năm 1612",
+            "answer_start": 113
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0005-0004",
+        "question": "Điều gì chứng minh Galileo Galilei là người đầu tiên quan sát Sao Hải Vương?",
+        "answers": [
+          {
+            "text": "Các bản vẽ",
+            "answer_start": 0
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0005-0005",
+        "question": "Năm 2009, David Jamieson làm việc ở đâu?",
+        "answers": [
+          {
+            "text": "Đại học Melbourne",
+            "answer_start": 864
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0102-0005-0006",
+        "question": "Điều gì chứng minh Galileo Galilei là người đầu tiên phát hiện ra sao Hải Vương?",
+        "answers": [],
+        "is_impossible": true
+      },
+      {
+        "id": "0102-0005-0007",
+        "question": "Galileo đã nhìn Sao Hải Vương thông qua đâu?",
+        "answers": [
+          {
+            "text": "kính thiên vă",
+            "answer_start": 786
+          }
+        ],
+        "is_impossible": false
+      }
+    ],
+    "similarity": 0.8058925371973853,
+    "wer": 0.18468468468468469,
+    "candidates": [
+      {
+        "context_id": "0102-0005",
+        "similarity": 0.8058925371973853,
+        "wer": 0.18468468468468469
+      },
+      {
+        "context_id": "0102-0006",
+        "similarity": 0.24320503512629615,
+        "wer": 1.1927083333333333
+      },
+      {
+        "context_id": "0071-0029",
+        "similarity": 0.24219022012252928,
+        "wer": 1.8211382113821137
+      },
+      {
+        "context_id": "0102-0025",
+        "similarity": 0.23941339953319749,
+        "wer": 1.5827338129496402
+      },
+      {
+        "context_id": "0131-0027",
+        "similarity": 0.21323622523281596,
+        "wer": 1.1372549019607843
+      }
+    ]
+  },
+  {
+    "audio_file": "ctx_0b9b3bbd.mp3",
+    "transcription": "Bài báo năm một nghìn chín trăm linh năm của ông về điện động lực học các vật thể chuyển động giới thiệu ra lý thuyết tương đối hẹp cho thấy tốc độ ánh sáng độc lập với trạng thái chuyển động của quan sát viên đã đòi hỏi những sự thay đổi cơ bản về khái niệm của sự đồng thời những hệ quả của kết luận này bao gồm sự giãn thời gian và co độ dài theo hướng chuyển động của vật thể chuyển động tương đối đối với hệ quy chiếu của quan sát viên bài báo này cũng bác bỏ sự tồn tại của ê te vật lý một trong những vấn đề lớn của thời đó.",
+    "context_id": "0008-0032",
+    "matched_context": "Bài báo năm 1905 của ông về điện động lực học các vật thể chuyển động giới thiệu ra lý thuyết tương đối hẹp, cho thấy tốc độ ánh sáng độc lập với trạng thái chuyển động của quan sát viên đã đòi hỏi những sự thay đổi cơ bản về khái niệm của sự đồng thời. Những hề quả của kết luận này bao gồm sự giãn thời gian và co độ dài (theo hướng chuyển động) của vật thể chuyển động tương đối đối với hệ quy chiếu của quan sát viên. Bài báo này cũng bác bỏ sự tồn tại của ête (vật lý) - một trong những vấn đề lớn của thời đó.",
+    "qas": [
+      {
+        "id": "0008-0032-0001",
+        "question": "Bài báo được viết năm bao nhiêu cả Einstein nói về động lực học các vật thể chuyển động giới thiệu ra lý thuyết tương đối hẹp?",
+        "answers": [
+          {
+            "text": "năm 1905",
+            "answer_start": 8
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0008-0032-0002",
+        "question": "Theo bài báo năm 1905, thì tốc độ ánh sáng độc lập với tra5g thái chuyển động của quan sát viên đòi hỏi điều gì?",
+        "answers": [
+          {
+            "text": "những sự thay đổi cơ bản về khái niệm của sự đồng thời",
+            "answer_start": 198
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0008-0032-0003",
+        "question": "Những hệ quả của kết luận này bao gồm những gì?",
+        "answers": [
+          {
+            "text": "sự giãn thời gian và co độ dài (theo hướng chuyển động) của vật thể chuyển động tương đối đối với hệ quy chiếu của quan sát viên",
+            "answer_start": 292
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0008-0032-0004",
+        "question": "Bài báo năm 1905 của Einstein đã bác bỏ sự tồn tại của điều gì?",
+        "answers": [
+          {
+            "text": "ête (vật lý)",
+            "answer_start": 461
+          }
+        ],
+        "is_impossible": false
+      },
+      {
+        "id": "0008-0032-0005",
+        "question": "Bài báo được viết năm bao nhiêu cả Einstein nói về động lực học các vật thể chuyển động giới thiệu ra lý thuyết lượng tử?",
+        "answers": [],
+        "is_impossible": true
+      }
+    ],
+    "similarity": 0.9161515666698036,
+    "wer": 0.07758620689655173,
+    "candidates": [
+      {
+        "context_id": "0008-0032",
+        "similarity": 0.9161515666698036,
+        "wer": 0.07758620689655173
+      },
+      {
+        "context_id": "0008-0002",
+        "similarity": 0.18335172821552784,
+        "wer": 0.9236641221374046
+      },
+      {
+        "context_id": "0081-0001",
+        "similarity": 0.1588732967895885,
+        "wer": 0.9635036496350365
+      },
+      {
+        "context_id": "0081-0004",
+        "similarity": 0.15666063731844626,
+        "wer": 0.921875
+      },
+      {
+        "context_id": "0044-0002",
+        "similarity": 0.15626482621469961,
+        "wer": 1.0344827586206897
+      }
+    ]
+  }
+]
